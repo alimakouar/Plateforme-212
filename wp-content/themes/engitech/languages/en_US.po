@@ -1,0 +1,3027 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Engitech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-16 07:33+0000\n"
+"PO-Revision-Date: 2020-03-16 07:33+0000\n"
+"Last-Translator: admin <engitech@oceanthemes.net>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: 404.php:16
+msgid "Sorry! Page Not Found!"
+msgstr ""
+
+#: 404.php:18
+msgid ""
+"Oops! The page you are looking for does not exist. Please return to the site "
+"is homepage."
+msgstr ""
+
+#: 404.php:20
+msgid "Take Me Home"
+msgstr ""
+
+#: archive-ot_portfolio.php:19
+msgid "All"
+msgstr ""
+
+#: comments.php:29
+msgid "Comments (0)"
+msgstr ""
+
+#: comments.php:29
+msgid "Comment (1)"
+msgstr ""
+
+#: comments.php:29
+msgid "Comments (%)"
+msgstr ""
+
+#: comments.php:41
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:53
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:54
+msgid "Comment*"
+msgstr ""
+
+#: comments.php:59
+msgid "Name*"
+msgstr ""
+
+#: comments.php:63
+msgid "Email*"
+msgstr ""
+
+#: functions.php:46
+msgid "Primary"
+msgstr ""
+
+#: functions.php:105
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:107
+msgid "Add widgets here."
+msgstr ""
+
+#. If there are characters in your language that are not supported by Montserrat, translate this to 'off'. Do not translate into your own language.
+#: functions.php:136
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Nunito Sans, translate this to 'off'. Do not translate into your own language.
+#: functions.php:140
+msgctxt "Nunito Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: header.php:102 page-templates/template-home3.php:56
+#: page-templates/template-home4.php:87 inc/woocommerce/woocommerce.php:195
+msgid "View your shopping cart"
+msgstr ""
+
+#: single-ot_portfolio.php:39
+msgid "Related Projects"
+msgstr ""
+
+#. Name of the template
+msgid "Checkout & Cart Page"
+msgstr ""
+
+#. Name of the template
+msgid "Demo Home 3"
+msgstr ""
+
+#. Name of the template
+msgid "Demo Home 4"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:36
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:43
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:19 template-parts/content-single.php:148
+msgid "Pages:"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:137
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. Name of the theme
+#: inc/backend/admin-functions.php:40
+msgid "Engitech"
+msgstr ""
+
+#: inc/backend/admin-functions.php:112
+msgid "Display Section"
+msgstr ""
+
+#: inc/backend/admin-functions.php:117
+msgid "Default"
+msgstr ""
+
+#: inc/backend/admin-functions.php:121
+msgid "Inline"
+msgstr ""
+
+#: inc/backend/admin-functions.php:132
+#: inc/backend/elementor-widgets/button.php:80
+#: inc/backend/elementor-widgets/countdown.php:42
+#: inc/backend/elementor-widgets/counter-2.php:42
+#: inc/backend/elementor-widgets/counter.php:55
+#: inc/backend/elementor-widgets/heading.php:74
+#: inc/backend/elementor-widgets/icon-box-1.php:43
+#: inc/backend/elementor-widgets/icon-box-2.php:139
+#: inc/backend/elementor-widgets/portfolio-carousel.php:161
+#: inc/backend/elementor-widgets/portfolio-filter.php:139
+#: inc/backend/elementor-widgets/portfolio-filter.php:221
+#: inc/backend/elementor-widgets/pricing-table.php:43
+#: inc/backend/elementor-widgets/progress-bars.php:94
+#: inc/backend/elementor-widgets/social-share.php:81
+#: inc/backend/elementor-widgets/tech-box.php:43
+#: inc/backend/elementor-widgets/video-button.php:43
+msgid "Alignment"
+msgstr ""
+
+#: inc/backend/admin-functions.php:136 inc/backend/customizer.php:1529
+#: inc/backend/elementor-widgets/button.php:84
+#: inc/backend/elementor-widgets/countdown.php:46
+#: inc/backend/elementor-widgets/counter-2.php:46
+#: inc/backend/elementor-widgets/counter.php:59
+#: inc/backend/elementor-widgets/heading.php:78
+#: inc/backend/elementor-widgets/icon-box-1.php:47
+#: inc/backend/elementor-widgets/icon-box-2.php:143
+#: inc/backend/elementor-widgets/portfolio-carousel.php:165
+#: inc/backend/elementor-widgets/portfolio-filter.php:143
+#: inc/backend/elementor-widgets/portfolio-filter.php:225
+#: inc/backend/elementor-widgets/pricing-table.php:47
+#: inc/backend/elementor-widgets/progress-bars.php:98
+#: inc/backend/elementor-widgets/social-share.php:85
+#: inc/backend/elementor-widgets/tech-box.php:47
+#: inc/backend/elementor-widgets/video-button.php:47
+msgid "Left"
+msgstr ""
+
+#: inc/backend/admin-functions.php:140
+#: inc/backend/elementor-widgets/button.php:88
+#: inc/backend/elementor-widgets/countdown.php:50
+#: inc/backend/elementor-widgets/counter-2.php:50
+#: inc/backend/elementor-widgets/counter.php:63
+#: inc/backend/elementor-widgets/heading.php:82
+#: inc/backend/elementor-widgets/icon-box-1.php:51
+#: inc/backend/elementor-widgets/icon-box-2.php:147
+#: inc/backend/elementor-widgets/portfolio-carousel.php:169
+#: inc/backend/elementor-widgets/portfolio-filter.php:147
+#: inc/backend/elementor-widgets/portfolio-filter.php:229
+#: inc/backend/elementor-widgets/pricing-table.php:51
+#: inc/backend/elementor-widgets/progress-bars.php:102
+#: inc/backend/elementor-widgets/social-share.php:89
+#: inc/backend/elementor-widgets/tech-box.php:51
+#: inc/backend/elementor-widgets/video-button.php:51
+msgid "Center"
+msgstr ""
+
+#: inc/backend/admin-functions.php:144 inc/backend/customizer.php:1530
+#: inc/backend/elementor-widgets/button.php:92
+#: inc/backend/elementor-widgets/countdown.php:54
+#: inc/backend/elementor-widgets/counter-2.php:54
+#: inc/backend/elementor-widgets/counter.php:67
+#: inc/backend/elementor-widgets/heading.php:86
+#: inc/backend/elementor-widgets/icon-box-1.php:55
+#: inc/backend/elementor-widgets/icon-box-2.php:151
+#: inc/backend/elementor-widgets/portfolio-carousel.php:173
+#: inc/backend/elementor-widgets/portfolio-filter.php:151
+#: inc/backend/elementor-widgets/portfolio-filter.php:233
+#: inc/backend/elementor-widgets/pricing-table.php:55
+#: inc/backend/elementor-widgets/progress-bars.php:106
+#: inc/backend/elementor-widgets/social-share.php:93
+#: inc/backend/elementor-widgets/tech-box.php:55
+#: inc/backend/elementor-widgets/video-button.php:55
+msgid "Right"
+msgstr ""
+
+#: inc/backend/admin-functions.php:148
+msgid "Justified"
+msgstr ""
+
+#: inc/backend/customizer.php:195 inc/backend/customizer.php:217
+#: inc/backend/elementor-widgets/button.php:128
+#: inc/backend/elementor-widgets/contact-info.php:138
+#: inc/backend/elementor-widgets/industries-carousel.php:162
+#: inc/backend/elementor-widgets/portfolio-filter.php:36
+#: inc/backend/elementor-widgets/post-carousel.php:122
+#: inc/backend/elementor-widgets/post-grid.php:87
+#: inc/backend/elementor-widgets/testimonial-carousel.php:175
+msgid "General"
+msgstr ""
+
+#: inc/backend/customizer.php:198
+msgid "Header"
+msgstr ""
+
+#: inc/backend/customizer.php:203
+msgid "Blog"
+msgstr ""
+
+#: inc/backend/customizer.php:208
+msgid "Portfolio"
+msgstr ""
+
+#: inc/backend/customizer.php:224
+msgid "Top Bar"
+msgstr ""
+
+#: inc/backend/customizer.php:231
+msgid "Logo"
+msgstr ""
+
+#: inc/backend/customizer.php:238 inc/backend/customizer.php:1752
+msgid "Menu"
+msgstr ""
+
+#: inc/backend/customizer.php:245
+msgid "Call To Action"
+msgstr ""
+
+#: inc/backend/customizer.php:252
+msgid "Styling"
+msgstr ""
+
+#: inc/backend/customizer.php:259
+msgid "Mobile Menu"
+msgstr ""
+
+#: inc/backend/customizer.php:267
+msgid "Page Header"
+msgstr ""
+
+#: inc/backend/customizer.php:274
+msgid "Blog Page"
+msgstr ""
+
+#: inc/backend/customizer.php:281
+msgid "Single Post"
+msgstr ""
+
+#: inc/backend/customizer.php:289
+msgid "Archive Page"
+msgstr ""
+
+#: inc/backend/customizer.php:295
+msgid "Single Page"
+msgstr ""
+
+#: inc/backend/customizer.php:302
+msgid "Footer"
+msgstr ""
+
+#: inc/backend/customizer.php:308 inc/backend/elementor-widgets/team.php:262
+#: inc/backend/elementor-widgets/team.php:292
+msgid "Typography"
+msgstr ""
+
+#: inc/backend/customizer.php:315 inc/backend/customizer.php:1778
+msgid "Preloader"
+msgstr ""
+
+#: inc/backend/customizer.php:322
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/backend/customizer.php:328
+msgid "Google Atlantic(Script Code)"
+msgstr ""
+
+#: inc/backend/customizer.php:338
+msgid "Header Layout"
+msgstr ""
+
+#: inc/backend/customizer.php:351
+msgid "Header Width: Wide/Boxes"
+msgstr ""
+
+#: inc/backend/customizer.php:365
+msgid "Header Padding (ex: 10px)"
+msgstr ""
+
+#: inc/backend/customizer.php:374
+msgid "Padding Left"
+msgstr ""
+
+#: inc/backend/customizer.php:375
+msgid "Padding Right"
+msgstr ""
+
+#: inc/backend/customizer.php:398 inc/backend/customizer.php:1073
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/backend/customizer.php:407
+msgid "Top Bar On/Off"
+msgstr ""
+
+#: inc/backend/customizer.php:414
+msgid "Top Bar Mobile On/Off"
+msgstr ""
+
+#: inc/backend/customizer.php:421
+msgid "Top Bar Style"
+msgstr ""
+
+#: inc/backend/customizer.php:426
+msgid "Contacts - Socials"
+msgstr ""
+
+#: inc/backend/customizer.php:427
+msgid "Socials - Contacts"
+msgstr ""
+
+#: inc/backend/customizer.php:441 inc/backend/customizer.php:600
+msgid "Contact Info On/Off"
+msgstr ""
+
+#: inc/backend/customizer.php:448 inc/backend/customizer.php:460
+#: inc/backend/customizer.php:685
+msgid "Contact Info"
+msgstr ""
+
+#: inc/backend/customizer.php:467
+msgid "Contact info name"
+msgstr ""
+
+#: inc/backend/customizer.php:468
+msgid "This will be the contact info name"
+msgstr ""
+
+#: inc/backend/customizer.php:473 inc/backend/customizer.php:528
+msgid "Icon class name"
+msgstr ""
+
+#: inc/backend/customizer.php:474
+msgid ""
+"This will be the contact info icon: https://fontawesome.com/icons?d=gallery ,"
+" ex: fas fa-phone"
+msgstr ""
+
+#: inc/backend/customizer.php:479
+msgid "Contact info content"
+msgstr ""
+
+#: inc/backend/customizer.php:480
+msgid "This will be the contact info content"
+msgstr ""
+
+#: inc/backend/customizer.php:496
+msgid "Social Network On/Off"
+msgstr ""
+
+#: inc/backend/customizer.php:503
+msgid "Socials Network"
+msgstr ""
+
+#: inc/backend/customizer.php:515
+msgid "social"
+msgstr ""
+
+#: inc/backend/customizer.php:522
+msgid "Social network name"
+msgstr ""
+
+#: inc/backend/customizer.php:523
+msgid "This will be the social network name"
+msgstr ""
+
+#: inc/backend/customizer.php:529
+msgid ""
+"This will be the social icon: https://fontawesome.com/icons?d=gallery , ex: "
+"fab fa-facebook"
+msgstr ""
+
+#: inc/backend/customizer.php:534
+msgid "Link url"
+msgstr ""
+
+#: inc/backend/customizer.php:535
+msgid "This will be the social link"
+msgstr ""
+
+#: inc/backend/customizer.php:542
+msgid "HTML a target Attribute for Socials."
+msgstr ""
+
+#: inc/backend/customizer.php:555
+msgid "Same Frame"
+msgstr ""
+
+#: inc/backend/customizer.php:556
+msgid "New Window"
+msgstr ""
+
+#: inc/backend/customizer.php:570
+msgid "Extra Text"
+msgstr ""
+
+#: inc/backend/customizer.php:579
+msgid "Search Button On/Off"
+msgstr ""
+
+#: inc/backend/customizer.php:586
+msgid "Cart Button On/Off"
+msgstr ""
+
+#: inc/backend/customizer.php:593
+msgid "Call To Action Button On/Off"
+msgstr ""
+
+#: inc/backend/customizer.php:614
+msgid "CTA Button Text"
+msgstr ""
+
+#: inc/backend/customizer.php:628
+msgid "CTA Button Link"
+msgstr ""
+
+#: inc/backend/customizer.php:656
+msgid "Contact Icon"
+msgstr ""
+
+#: inc/backend/customizer.php:658
+msgid ""
+"This will be the social icon: https://fontawesome.com/icons?d=gallery , ex: "
+"fas fa-phone"
+msgstr ""
+
+#: inc/backend/customizer.php:671
+msgid "Contact Text"
+msgstr ""
+
+#: inc/backend/customizer.php:701
+msgid "Upload Your Static Logo Image on Header Static (.jpg, .png, .svg)"
+msgstr ""
+
+#: inc/backend/customizer.php:708
+msgid "Upload Your Logo Image on Header Scroll (.jpg, .png, .svg)"
+msgstr ""
+
+#: inc/backend/customizer.php:715
+msgid "Logo Width(px)"
+msgstr ""
+
+#: inc/backend/customizer.php:729
+msgid "Logo Height(px)"
+msgstr ""
+
+#: inc/backend/customizer.php:743
+msgid "Logo Margin (ex: 10px)"
+msgstr ""
+
+#: inc/backend/customizer.php:771 inc/backend/customizer.php:817
+#: inc/backend/customizer.php:863 inc/backend/customizer.php:909
+#: inc/backend/customizer.php:955 inc/backend/customizer.php:1004
+#: inc/backend/customizer.php:1123 inc/backend/customizer.php:1851
+#: inc/backend/elementor-widgets/button.php:158
+#: inc/backend/elementor-widgets/button.php:192
+#: inc/backend/elementor-widgets/industries-carousel.php:178
+#: inc/backend/elementor-widgets/number-box.php:257
+#: inc/backend/elementor-widgets/number-box.php:289
+#: inc/backend/elementor-widgets/pricing-table.php:585
+#: inc/backend/elementor-widgets/pricing-table.php:621
+#: inc/backend/elementor-widgets/service-box-1.php:240
+#: inc/backend/elementor-widgets/service-box-2.php:325
+#: inc/backend/elementor-widgets/testimonial-carousel.php:191
+#: inc/backend/elementor-widgets/video-button.php:187
+#: inc/backend/elementor-widgets/video-button.php:220
+msgid "Background Color"
+msgstr ""
+
+#: inc/backend/customizer.php:784 inc/backend/customizer.php:830
+#: inc/backend/customizer.php:876 inc/backend/customizer.php:922
+#: inc/backend/customizer.php:975 inc/backend/customizer.php:1017
+#: inc/backend/elementor-widgets/button.php:146
+#: inc/backend/elementor-widgets/button.php:181
+#: inc/backend/elementor-widgets/industries-carousel.php:190
+#: inc/backend/elementor-widgets/industries-carousel.php:299
+#: inc/backend/elementor-widgets/portfolio-filter.php:180
+#: inc/backend/elementor-widgets/testimonial-carousel.php:214
+#: inc/backend/elementor-widgets/testimonial-carousel.php:323
+#: inc/backend/elementor-widgets/testimonial-carousel.php:372
+msgid "Text Color"
+msgstr ""
+
+#: inc/backend/customizer.php:797
+msgid "Border Bottom Color"
+msgstr ""
+
+#: inc/backend/customizer.php:843 inc/backend/customizer.php:889
+#: inc/backend/elementor-widgets/icon-box-2.php:265
+msgid "Arrow Color"
+msgstr ""
+
+#: inc/backend/customizer.php:935 inc/backend/customizer.php:1030
+#: inc/backend/elementor-widgets/portfolio-filter.php:192
+msgid "Text Hover Color"
+msgstr ""
+
+#: inc/backend/customizer.php:997
+msgid "Mobile Logo"
+msgstr ""
+
+#: inc/backend/customizer.php:1043
+#: inc/backend/elementor-widgets/post-carousel.php:140
+#: inc/backend/elementor-widgets/post-grid.php:105
+msgid "Border Color"
+msgstr ""
+
+#: inc/backend/customizer.php:1056
+msgid "Toggle Button Color"
+msgstr ""
+
+#: inc/backend/customizer.php:1082 inc/backend/meta-boxes.php:35
+#: inc/backend/meta-boxes.php:60
+msgid "Page Header On/Off"
+msgstr ""
+
+#: inc/backend/customizer.php:1089
+msgid "Breadcrumbs On/Off"
+msgstr ""
+
+#: inc/backend/customizer.php:1103
+msgid "Background Image"
+msgstr ""
+
+#: inc/backend/customizer.php:1143
+msgid "Page Title Color"
+msgstr ""
+
+#: inc/backend/customizer.php:1163
+msgid "Page Header Height"
+msgstr ""
+
+#: inc/backend/customizer.php:1168 inc/backend/customizer.php:1212
+msgid "Desktop"
+msgstr ""
+
+#: inc/backend/customizer.php:1169 inc/backend/customizer.php:1213
+msgid "Tablet"
+msgstr ""
+
+#: inc/backend/customizer.php:1170 inc/backend/customizer.php:1214
+msgid "Mobile"
+msgstr ""
+
+#: inc/backend/customizer.php:1207
+msgid "Page Title Size"
+msgstr ""
+
+#: inc/backend/customizer.php:1252
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/backend/customizer.php:1256
+msgid "Select default sidebar for the blog page."
+msgstr ""
+
+#: inc/backend/customizer.php:1265
+#: inc/backend/elementor-widgets/post-carousel.php:162
+#: inc/backend/elementor-widgets/post-grid.php:127
+msgid "Entry Meta"
+msgstr ""
+
+#: inc/backend/customizer.php:1269 inc/frontend/template-tags.php:367
+msgid "Author"
+msgstr ""
+
+#: inc/backend/customizer.php:1270
+msgid "Date"
+msgstr ""
+
+#: inc/backend/customizer.php:1271
+msgid "Comments"
+msgstr ""
+
+#: inc/backend/customizer.php:1277
+msgid "Details Button"
+msgstr ""
+
+#: inc/backend/customizer.php:1279
+msgid "LEARN MORE"
+msgstr ""
+
+#: inc/backend/customizer.php:1286
+msgid "Layout"
+msgstr ""
+
+#: inc/backend/customizer.php:1298
+msgid "Page Title"
+msgstr ""
+
+#: inc/backend/customizer.php:1300
+msgid "Blog Post"
+msgstr ""
+
+#: inc/backend/customizer.php:1305
+msgid "Social Share"
+msgstr ""
+
+#: inc/backend/customizer.php:1315
+#: inc/backend/elementor-widgets/social-share.php:47
+#: inc/backend/elementor-widgets/team.php:136
+msgid "Twitter"
+msgstr ""
+
+#: inc/backend/customizer.php:1316
+#: inc/backend/elementor-widgets/social-share.php:46
+#: inc/backend/elementor-widgets/team.php:145
+msgid "Facebook"
+msgstr ""
+
+#: inc/backend/customizer.php:1317 inc/frontend/template-tags.php:330
+#: inc/backend/elementor-widgets/social-share.php:49
+#: inc/backend/elementor-widgets/team.php:154
+msgid "Pinterest"
+msgstr ""
+
+#: inc/backend/customizer.php:1318
+#: inc/backend/elementor-widgets/social-share.php:50
+msgid "Linkedin"
+msgstr ""
+
+#: inc/backend/customizer.php:1319
+#: inc/backend/elementor-widgets/social-share.php:48
+msgid "Google Plus"
+msgstr ""
+
+#: inc/backend/customizer.php:1320
+#: inc/backend/elementor-widgets/social-share.php:55
+msgid "Tumblr"
+msgstr ""
+
+#: inc/backend/customizer.php:1321
+#: inc/backend/elementor-widgets/social-share.php:53
+msgid "Reddit"
+msgstr ""
+
+#: inc/backend/customizer.php:1322
+msgid "VK"
+msgstr ""
+
+#: inc/backend/customizer.php:1328
+msgid "Entry Footer"
+msgstr ""
+
+#: inc/backend/customizer.php:1335
+msgid "Like Post"
+msgstr ""
+
+#: inc/backend/customizer.php:1342
+msgid "Author Info Box"
+msgstr ""
+
+#: inc/backend/customizer.php:1349
+msgid "Post Navigation"
+msgstr ""
+
+#: inc/backend/customizer.php:1357
+msgid "Portfolio Archive"
+msgstr ""
+
+#: inc/backend/customizer.php:1361
+msgid "Select page default for the portfolio archive page."
+msgstr ""
+
+#: inc/backend/customizer.php:1363
+msgid "Archive page default"
+msgstr ""
+
+#: inc/backend/customizer.php:1364
+msgid "Archive page custom"
+msgstr ""
+
+#: inc/backend/customizer.php:1369
+msgid "Select Page"
+msgstr ""
+
+#: inc/backend/customizer.php:1370
+msgid "Choose a custom page for archive portfolio page."
+msgstr ""
+
+#: inc/backend/customizer.php:1384
+msgid "Portfolio Column"
+msgstr ""
+
+#: inc/backend/customizer.php:1388
+msgid "Select default column for the portfolio page."
+msgstr ""
+
+#: inc/backend/customizer.php:1390
+#: inc/backend/elementor-widgets/portfolio-filter.php:79
+#: inc/backend/elementor-widgets/post-grid.php:58
+msgid "2 Column"
+msgstr ""
+
+#: inc/backend/customizer.php:1391
+#: inc/backend/elementor-widgets/portfolio-filter.php:80
+#: inc/backend/elementor-widgets/post-grid.php:59
+msgid "3 Column"
+msgstr ""
+
+#: inc/backend/customizer.php:1392
+#: inc/backend/elementor-widgets/portfolio-filter.php:81
+#: inc/backend/elementor-widgets/post-grid.php:60
+msgid "4 Column"
+msgstr ""
+
+#: inc/backend/customizer.php:1393
+#: inc/backend/elementor-widgets/portfolio-filter.php:82
+msgid "5 Column"
+msgstr ""
+
+#: inc/backend/customizer.php:1405
+#: inc/backend/elementor-widgets/portfolio-filter.php:114
+msgid "Portfolio Style"
+msgstr ""
+
+#: inc/backend/customizer.php:1409
+msgid "Select default style for the portfolio page."
+msgstr ""
+
+#: inc/backend/customizer.php:1411
+msgid "Grid Normal"
+msgstr ""
+
+#: inc/backend/customizer.php:1412
+msgid "Grid Masonry"
+msgstr ""
+
+#: inc/backend/customizer.php:1426
+msgid "Posts per page"
+msgstr ""
+
+#: inc/backend/customizer.php:1427
+msgid "Change Posts Per Page for Portfolio Archive, Taxonomy."
+msgstr ""
+
+#: inc/backend/customizer.php:1439
+msgid "Projects Navigation On/Off"
+msgstr ""
+
+#: inc/backend/customizer.php:1446
+msgid "Related Projects On/Off"
+msgstr ""
+
+#: inc/backend/customizer.php:1454
+msgid "Select Footer"
+msgstr ""
+
+#: inc/backend/customizer.php:1455
+msgid "Choose a footer for all site here."
+msgstr ""
+
+#: inc/backend/customizer.php:1459
+msgid "Select a footer"
+msgstr ""
+
+#: inc/backend/customizer.php:1471
+msgid "Back To Top On/Off?"
+msgstr ""
+
+#: inc/backend/customizer.php:1478
+msgid "Back-To-Top Background Color"
+msgstr ""
+
+#: inc/backend/customizer.php:1498
+msgid "Back-To-Top Color"
+msgstr ""
+
+#: inc/backend/customizer.php:1518
+msgid "Back-To-Top Spacing"
+msgstr ""
+
+#: inc/backend/customizer.php:1528
+#: inc/backend/elementor-widgets/portfolio-carousel.php:196
+msgid "Bottom"
+msgstr ""
+
+#: inc/backend/customizer.php:1549
+msgid "Typography Customize?"
+msgstr ""
+
+#: inc/backend/customizer.php:1556
+msgid "Body"
+msgstr ""
+
+#: inc/backend/customizer.php:1584
+msgid "Heading 1"
+msgstr ""
+
+#: inc/backend/customizer.php:1612
+msgid "Heading 2"
+msgstr ""
+
+#: inc/backend/customizer.php:1640
+msgid "Heading 3"
+msgstr ""
+
+#: inc/backend/customizer.php:1668
+msgid "Heading 4"
+msgstr ""
+
+#: inc/backend/customizer.php:1696
+msgid "Heading 5"
+msgstr ""
+
+#: inc/backend/customizer.php:1724
+msgid "Heading 6"
+msgstr ""
+
+#: inc/backend/customizer.php:1785
+msgid "Logo Preload"
+msgstr ""
+
+#: inc/backend/customizer.php:1799
+msgid "Logo Width"
+msgstr ""
+
+#: inc/backend/customizer.php:1818
+msgid "Logo Height"
+msgstr ""
+
+#: inc/backend/customizer.php:1837
+msgid "Percent Text Color"
+msgstr ""
+
+#: inc/backend/customizer.php:1865
+msgid "Percent Preload Font"
+msgstr ""
+
+#: inc/backend/customizer.php:1894
+msgid "Background Body"
+msgstr ""
+
+#: inc/backend/customizer.php:1907 inc/backend/elementor-widgets/button.php:50
+#: inc/backend/elementor-widgets/social-share.php:130
+msgid "Primary Color"
+msgstr ""
+
+#: inc/backend/customizer.php:1914 inc/backend/elementor-widgets/button.php:51
+msgid "Second Color"
+msgstr ""
+
+#: inc/backend/customizer.php:1923
+msgid "Code"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:17
+msgid "Page Settings"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:25
+msgid "Page Layout"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:44 inc/backend/meta-boxes.php:69
+msgid "Background Page Header"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:53
+msgid "Extra Settings"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:112
+msgid "Format Details"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:119
+#: inc/backend/elementor-widgets/icon-box-2.php:86
+#: inc/backend/elementor-widgets/image-box.php:44
+#: inc/backend/elementor-widgets/support-box.php:43
+msgid "Image"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:128
+msgid "Gallery"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:136
+msgid "Audio"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:145
+msgid "Video"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:154
+msgid "Background Video"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:161 inc/backend/elementor-widgets/button.php:113
+#: inc/backend/elementor-widgets/counter-2.php:96
+#: inc/backend/elementor-widgets/icon-box-1.php:142
+#: inc/backend/elementor-widgets/icon-box-2.php:130
+#: inc/backend/elementor-widgets/image-box.php:62
+#: inc/backend/elementor-widgets/pricing-table.php:187
+#: inc/backend/elementor-widgets/service-box-1.php:119
+#: inc/backend/elementor-widgets/service-box-2.php:137
+#: inc/backend/elementor-widgets/support-box.php:93
+#: inc/backend/elementor-widgets/team.php:104
+#: inc/backend/elementor-widgets/tech-box.php:134
+msgid "Link"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:169
+msgid "Text Link"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:177
+msgid "Quote"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:183
+msgid "Quote Name"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:14
+msgid "Meta Box"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:19
+msgid "Kirki"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:24
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:29
+msgid "Woocommerce"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:34
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:39
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:44
+msgid "OT Portfolio"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:50
+msgid "Revolution Slider"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:56
+msgid "OT One Click Demo Content"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:70
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:71
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:72
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:73
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/backend/plugin-requires.php:74
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugin-requires.php:75
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugin-requires.php:76
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugin-requires.php:77
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugin-requires.php:78
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugin-requires.php:79
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugin-requires.php:80
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugin-requires.php:81
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugin-requires.php:82
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugin-requires.php:83
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugin-requires.php:84
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:85
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/backend/plugin-requires.php:86
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/backend/post-like.php:32 inc/backend/post-like.php:225
+#: inc/backend/post-like.php:348
+msgid "Like"
+msgstr ""
+
+#: inc/backend/post-like.php:33 inc/backend/post-like.php:221
+msgid "Unlike"
+msgstr ""
+
+#: inc/backend/post-like.php:47
+msgid "Not permitted"
+msgstr ""
+
+#: inc/backend/post-like.php:349
+msgid "Likes"
+msgstr ""
+
+#: inc/backend/post-like.php:365
+msgid "You Like:"
+msgstr ""
+
+#: inc/backend/post-like.php:391
+msgid "You do not like anything yet."
+msgstr ""
+
+#: inc/frontend/breadcrumbs.php:14 inc/frontend/breadcrumbs.php:16
+msgid "Home"
+msgstr ""
+
+#: inc/frontend/breadcrumbs.php:85
+msgid "Search"
+msgstr ""
+
+#: inc/frontend/breadcrumbs.php:89
+msgid "404"
+msgstr ""
+
+#: inc/frontend/page-header.php:29
+msgid "Search Results for: "
+msgstr ""
+
+#. %s: post date.
+#: inc/frontend/template-tags.php:28 inc/frontend/template-tags.php:86
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: inc/frontend/template-tags.php:42
+msgid " "
+msgstr ""
+
+#. 1: list of categories.
+#. 1: list of tags.
+#: inc/frontend/template-tags.php:45 inc/frontend/template-tags.php:99
+#: inc/frontend/template-tags.php:111 inc/frontend/template-tags.php:134
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#. %s: post author.
+#: inc/frontend/template-tags.php:60 inc/frontend/template-tags.php:92
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#: inc/frontend/template-tags.php:96
+msgid ", "
+msgstr ""
+
+#. %s: post author.
+#: inc/frontend/template-tags.php:104
+#, php-format
+msgctxt "post comment"
+msgid "%s"
+msgstr ""
+
+#: inc/frontend/template-tags.php:105
+msgid "0 Comments"
+msgstr ""
+
+#: inc/frontend/template-tags.php:105
+msgid "1 Comment"
+msgstr ""
+
+#: inc/frontend/template-tags.php:105
+msgid "% Comments"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/frontend/template-tags.php:108
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/frontend/template-tags.php:131
+msgctxt "list item separator"
+msgid " "
+msgstr ""
+
+#: inc/frontend/template-tags.php:274
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/frontend/template-tags.php:280
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/frontend/template-tags.php:298
+msgid "Search &hellip;"
+msgstr ""
+
+#: inc/frontend/template-tags.php:324
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/frontend/template-tags.php:325
+msgid "Skype Username"
+msgstr ""
+
+#: inc/frontend/template-tags.php:326
+msgid "Twitter Handle"
+msgstr ""
+
+#: inc/frontend/template-tags.php:327
+msgid "Youtube Channel"
+msgstr ""
+
+#: inc/frontend/template-tags.php:328
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/frontend/template-tags.php:329
+msgid "Google +"
+msgstr ""
+
+#: inc/frontend/template-tags.php:331
+msgid "Instagram"
+msgstr ""
+
+#: inc/frontend/template-tags.php:332
+msgid "Github Profile"
+msgstr ""
+
+#: inc/woocommerce/woocommerce.php:100
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#. number of items in the mini cart.
+#: inc/woocommerce/woocommerce.php:200
+#, php-format
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woocommerce/woocommerce.php:287
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/woocommerce/woocommerce.php:312
+msgid "Single Product"
+msgstr ""
+
+#: inc/woocommerce/woocommerce.php:324
+msgid "Shop Layout"
+msgstr ""
+
+#: inc/woocommerce/woocommerce.php:328
+msgid "Select default sidebar for the shop page."
+msgstr ""
+
+#: inc/woocommerce/woocommerce.php:339
+msgid "Single Product Layout"
+msgstr ""
+
+#: inc/woocommerce/woocommerce.php:351
+msgid "Title Page Header"
+msgstr ""
+
+#: inc/woocommerce/woocommerce.php:358
+msgid "Related Product On/Off?"
+msgstr ""
+
+#: inc/backend/elementor-widgets/accordions.php:17
+msgid "Engitech Accordions"
+msgstr ""
+
+#: inc/backend/elementor-widgets/accordions.php:36
+#: inc/backend/elementor-widgets/accordions.php:90
+msgid "Accordions"
+msgstr ""
+
+#: inc/backend/elementor-widgets/accordions.php:45
+msgid "Title & Content"
+msgstr ""
+
+#: inc/backend/elementor-widgets/accordions.php:47
+#: inc/backend/elementor-widgets/accordions.php:48
+msgid "Accordion Title"
+msgstr ""
+
+#: inc/backend/elementor-widgets/accordions.php:56
+#: inc/backend/elementor-widgets/accordions.php:312
+#: inc/backend/elementor-widgets/contact-info.php:36
+#: inc/backend/elementor-widgets/heading.php:36
+#: inc/backend/elementor-widgets/icon-box-1.php:215
+#: inc/backend/elementor-widgets/icon-box-2.php:351
+#: inc/backend/elementor-widgets/image-box.php:75
+#: inc/backend/elementor-widgets/industries-carousel.php:62
+#: inc/backend/elementor-widgets/message-box.php:226
+#: inc/backend/elementor-widgets/number-box.php:307
+#: inc/backend/elementor-widgets/post-carousel.php:155
+#: inc/backend/elementor-widgets/post-grid.php:120
+#: inc/backend/elementor-widgets/pricing-table.php:350
+#: inc/backend/elementor-widgets/progress-bars.php:36
+#: inc/backend/elementor-widgets/service-box-1.php:254
+#: inc/backend/elementor-widgets/service-box-2.php:339
+#: inc/backend/elementor-widgets/social-share.php:34
+#: inc/backend/elementor-widgets/support-box.php:109
+#: inc/backend/elementor-widgets/tabs.php:56
+#: inc/backend/elementor-widgets/tabs.php:203
+#: inc/backend/elementor-widgets/tech-box.php:227
+#: inc/backend/elementor-widgets/testimonial-carousel.php:42
+msgid "Content"
+msgstr ""
+
+#: inc/backend/elementor-widgets/accordions.php:57
+#: inc/backend/elementor-widgets/accordions.php:58
+msgid "Accordion Content"
+msgstr ""
+
+#: inc/backend/elementor-widgets/accordions.php:67
+msgid "Accordion Items"
+msgstr ""
+
+#: inc/backend/elementor-widgets/accordions.php:72
+msgid "Accordion #1"
+msgstr ""
+
+#: inc/backend/elementor-widgets/accordions.php:73
+#: inc/backend/elementor-widgets/accordions.php:77
+#: inc/backend/elementor-widgets/tabs.php:73
+#: inc/backend/elementor-widgets/tabs.php:77
+msgid ""
+"We help ambitious businesses like yours generate more profits by building "
+"awareness, driving web traffic, connecting with customers, and growing "
+"overall sales. Give us a call."
+msgstr ""
+
+#: inc/backend/elementor-widgets/accordions.php:76
+msgid "Accordion #2"
+msgstr ""
+
+#: inc/backend/elementor-widgets/accordions.php:98
+#: inc/backend/elementor-widgets/contact-info.php:202
+#: inc/backend/elementor-widgets/contact-info.php:228
+#: inc/backend/elementor-widgets/countdown.php:209
+#: inc/backend/elementor-widgets/counter-2.php:185
+#: inc/backend/elementor-widgets/counter-2.php:229
+#: inc/backend/elementor-widgets/counter-2.php:273
+#: inc/backend/elementor-widgets/counter.php:173
+#: inc/backend/elementor-widgets/counter.php:219
+#: inc/backend/elementor-widgets/heading.php:138
+#: inc/backend/elementor-widgets/icon-box-1.php:182
+#: inc/backend/elementor-widgets/icon-box-1.php:232
+#: inc/backend/elementor-widgets/icon-box-1.php:276
+#: inc/backend/elementor-widgets/icon-box-2.php:307
+#: inc/backend/elementor-widgets/icon-box-2.php:368
+#: inc/backend/elementor-widgets/image-box.php:92
+#: inc/backend/elementor-widgets/industries-carousel.php:240
+#: inc/backend/elementor-widgets/industries-carousel.php:319
+#: inc/backend/elementor-widgets/industries-carousel.php:347
+#: inc/backend/elementor-widgets/message-box.php:207
+#: inc/backend/elementor-widgets/message-box.php:243
+#: inc/backend/elementor-widgets/number-box.php:220
+#: inc/backend/elementor-widgets/number-box.php:324
+#: inc/backend/elementor-widgets/portfolio-carousel.php:260
+#: inc/backend/elementor-widgets/portfolio-carousel.php:315
+#: inc/backend/elementor-widgets/portfolio-carousel.php:404
+#: inc/backend/elementor-widgets/portfolio-carousel.php:433
+#: inc/backend/elementor-widgets/portfolio-filter.php:164
+#: inc/backend/elementor-widgets/portfolio-filter.php:318
+#: inc/backend/elementor-widgets/post-carousel.php:170
+#: inc/backend/elementor-widgets/post-carousel.php:202
+#: inc/backend/elementor-widgets/post-carousel.php:279
+#: inc/backend/elementor-widgets/post-grid.php:135
+#: inc/backend/elementor-widgets/post-grid.php:167
+#: inc/backend/elementor-widgets/pricing-table.php:368
+#: inc/backend/elementor-widgets/pricing-table.php:412
+#: inc/backend/elementor-widgets/pricing-table.php:456
+#: inc/backend/elementor-widgets/pricing-table.php:500
+#: inc/backend/elementor-widgets/progress-bars.php:218
+#: inc/backend/elementor-widgets/service-box-1.php:271
+#: inc/backend/elementor-widgets/service-box-1.php:343
+#: inc/backend/elementor-widgets/service-box-2.php:384
+#: inc/backend/elementor-widgets/service-box-2.php:456
+#: inc/backend/elementor-widgets/social-share.php:190
+#: inc/backend/elementor-widgets/tabs.php:107
+#: inc/backend/elementor-widgets/team.php:233
+#: inc/backend/elementor-widgets/team.php:340
+#: inc/backend/elementor-widgets/tech-box.php:263
+#: inc/backend/elementor-widgets/testimonial-carousel.php:264
+#: inc/backend/elementor-widgets/testimonial-carousel.php:343
+#: inc/backend/elementor-widgets/testimonial-carousel.php:406
+#: inc/backend/elementor-widgets/testimonial-carousel.php:463
+#: inc/backend/elementor-widgets/video-button.php:272
+msgid "Spacing"
+msgstr ""
+
+#: inc/backend/elementor-widgets/accordions.php:121
+#: inc/backend/elementor-widgets/industries-carousel.php:276
+#: inc/backend/elementor-widgets/message-box.php:123
+#: inc/backend/elementor-widgets/portfolio-carousel.php:230
+#: inc/backend/elementor-widgets/social-share.php:212
+#: inc/backend/elementor-widgets/testimonial-carousel.php:300
+msgid "Border Radius"
+msgstr ""
+
+#: inc/backend/elementor-widgets/accordions.php:140
+#: inc/backend/elementor-widgets/accordions.php:241
+#: inc/backend/elementor-widgets/accordions.php:282
+#: inc/backend/elementor-widgets/icon-box-2.php:214
+#: inc/backend/elementor-widgets/icon-box-2.php:249
+#: inc/backend/elementor-widgets/message-box.php:112
+#: inc/backend/elementor-widgets/message-box.php:169
+#: inc/backend/elementor-widgets/number-box.php:162
+#: inc/backend/elementor-widgets/number-box.php:189
+#: inc/backend/elementor-widgets/portfolio-carousel.php:242
+#: inc/backend/elementor-widgets/portfolio-carousel.php:379
+#: inc/backend/elementor-widgets/portfolio-filter.php:300
+#: inc/backend/elementor-widgets/pricing-table.php:237
+#: inc/backend/elementor-widgets/pricing-table.php:271
+#: inc/backend/elementor-widgets/service-box-1.php:161
+#: inc/backend/elementor-widgets/support-box.php:241
+#: inc/backend/elementor-widgets/tabs.php:142
+#: inc/backend/elementor-widgets/tabs.php:174
+#: inc/backend/elementor-widgets/team.php:119
+#: inc/backend/elementor-widgets/team.php:189
+#: inc/backend/elementor-widgets/team.php:311
+#: inc/backend/elementor-widgets/tech-box.php:184
+#: inc/backend/elementor-widgets/tech-box.php:211
+#: inc/backend/elementor-widgets/testimonial-carousel.php:427
+msgid "Background"
+msgstr ""
+
+#: inc/backend/elementor-widgets/accordions.php:156
+#: inc/backend/elementor-widgets/testimonial-carousel.php:438
+msgid "Background Active"
+msgstr ""
+
+#: inc/backend/elementor-widgets/accordions.php:176
+#: inc/backend/elementor-widgets/contact-info.php:96
+#: inc/backend/elementor-widgets/contact-info.php:220
+#: inc/backend/elementor-widgets/counter-2.php:221
+#: inc/backend/elementor-widgets/counter.php:165
+#: inc/backend/elementor-widgets/heading.php:156
+#: inc/backend/elementor-widgets/icon-box-1.php:123
+#: inc/backend/elementor-widgets/icon-box-1.php:224
+#: inc/backend/elementor-widgets/icon-box-2.php:111
+#: inc/backend/elementor-widgets/icon-box-2.php:360
+#: inc/backend/elementor-widgets/image-box.php:52
+#: inc/backend/elementor-widgets/image-box.php:84
+#: inc/backend/elementor-widgets/industries-carousel.php:53
+#: inc/backend/elementor-widgets/industries-carousel.php:291
+#: inc/backend/elementor-widgets/message-box.php:82
+#: inc/backend/elementor-widgets/message-box.php:235
+#: inc/backend/elementor-widgets/number-box.php:107
+#: inc/backend/elementor-widgets/number-box.php:316
+#: inc/backend/elementor-widgets/portfolio-carousel.php:252
+#: inc/backend/elementor-widgets/portfolio-filter.php:310
+#: inc/backend/elementor-widgets/post-carousel.php:194
+#: inc/backend/elementor-widgets/post-grid.php:159
+#: inc/backend/elementor-widgets/pricing-table.php:139
+#: inc/backend/elementor-widgets/pricing-table.php:359
+#: inc/backend/elementor-widgets/progress-bars.php:211
+#: inc/backend/elementor-widgets/service-box-1.php:97
+#: inc/backend/elementor-widgets/service-box-1.php:263
+#: inc/backend/elementor-widgets/service-box-2.php:107
+#: inc/backend/elementor-widgets/service-box-2.php:376
+#: inc/backend/elementor-widgets/support-box.php:64
+#: inc/backend/elementor-widgets/support-box.php:127
+#: inc/backend/elementor-widgets/tabs.php:99
+#: inc/backend/elementor-widgets/team.php:224
+#: inc/backend/elementor-widgets/tech-box.php:124
+#: inc/backend/elementor-widgets/tech-box.php:309
+msgid "Title"
+msgstr ""
+
+#: inc/backend/elementor-widgets/accordions.php:183
+#: inc/backend/elementor-widgets/accordions.php:252
+#: inc/backend/elementor-widgets/accordions.php:293
+#: inc/backend/elementor-widgets/accordions.php:320
+#: inc/backend/elementor-widgets/contact-info.php:174
+#: inc/backend/elementor-widgets/contact-info.php:244
+#: inc/backend/elementor-widgets/contact-info.php:272
+#: inc/backend/elementor-widgets/countdown.php:191
+#: inc/backend/elementor-widgets/countdown.php:236
+#: inc/backend/elementor-widgets/countdown.php:264
+#: inc/backend/elementor-widgets/counter-2.php:201
+#: inc/backend/elementor-widgets/counter-2.php:245
+#: inc/backend/elementor-widgets/counter-2.php:289
+#: inc/backend/elementor-widgets/counter-2.php:317
+#: inc/backend/elementor-widgets/counter-2.php:338
+#: inc/backend/elementor-widgets/counter.php:145
+#: inc/backend/elementor-widgets/counter.php:190
+#: inc/backend/elementor-widgets/counter.php:251
+#: inc/backend/elementor-widgets/heading.php:120
+#: inc/backend/elementor-widgets/heading.php:164
+#: inc/backend/elementor-widgets/icon-box-1.php:198
+#: inc/backend/elementor-widgets/icon-box-1.php:248
+#: inc/backend/elementor-widgets/icon-box-1.php:292
+#: inc/backend/elementor-widgets/icon-box-1.php:324
+#: inc/backend/elementor-widgets/icon-box-2.php:325
+#: inc/backend/elementor-widgets/icon-box-2.php:384
+#: inc/backend/elementor-widgets/icon-box-2.php:423
+#: inc/backend/elementor-widgets/image-box.php:108
+#: inc/backend/elementor-widgets/message-box.php:180
+#: inc/backend/elementor-widgets/message-box.php:259
+#: inc/backend/elementor-widgets/message-box.php:287
+#: inc/backend/elementor-widgets/number-box.php:246
+#: inc/backend/elementor-widgets/number-box.php:278
+#: inc/backend/elementor-widgets/number-box.php:340
+#: inc/backend/elementor-widgets/number-box.php:379
+#: inc/backend/elementor-widgets/number-box.php:418
+#: inc/backend/elementor-widgets/portfolio-carousel.php:276
+#: inc/backend/elementor-widgets/portfolio-carousel.php:334
+#: inc/backend/elementor-widgets/portfolio-carousel.php:368
+#: inc/backend/elementor-widgets/portfolio-filter.php:334
+#: inc/backend/elementor-widgets/portfolio-filter.php:373
+#: inc/backend/elementor-widgets/post-carousel.php:239
+#: inc/backend/elementor-widgets/post-grid.php:204
+#: inc/backend/elementor-widgets/pricing-table.php:384
+#: inc/backend/elementor-widgets/pricing-table.php:428
+#: inc/backend/elementor-widgets/pricing-table.php:472
+#: inc/backend/elementor-widgets/pricing-table.php:527
+#: inc/backend/elementor-widgets/pricing-table.php:597
+#: inc/backend/elementor-widgets/pricing-table.php:635
+#: inc/backend/elementor-widgets/progress-bars.php:133
+#: inc/backend/elementor-widgets/progress-bars.php:236
+#: inc/backend/elementor-widgets/progress-bars.php:264
+#: inc/backend/elementor-widgets/service-box-1.php:229
+#: inc/backend/elementor-widgets/service-box-1.php:287
+#: inc/backend/elementor-widgets/service-box-1.php:315
+#: inc/backend/elementor-widgets/service-box-1.php:366
+#: inc/backend/elementor-widgets/service-box-2.php:254
+#: inc/backend/elementor-widgets/service-box-2.php:314
+#: inc/backend/elementor-widgets/service-box-2.php:356
+#: inc/backend/elementor-widgets/service-box-2.php:400
+#: inc/backend/elementor-widgets/service-box-2.php:428
+#: inc/backend/elementor-widgets/service-box-2.php:479
+#: inc/backend/elementor-widgets/social-share.php:118
+#: inc/backend/elementor-widgets/support-box.php:135
+#: inc/backend/elementor-widgets/support-box.php:182
+#: inc/backend/elementor-widgets/support-box.php:261
+#: inc/backend/elementor-widgets/support-box.php:289
+#: inc/backend/elementor-widgets/tabs.php:153
+#: inc/backend/elementor-widgets/tabs.php:186
+#: inc/backend/elementor-widgets/tabs.php:211
+#: inc/backend/elementor-widgets/team.php:250
+#: inc/backend/elementor-widgets/team.php:280
+#: inc/backend/elementor-widgets/team.php:357
+#: inc/backend/elementor-widgets/tech-box.php:279
+#: inc/backend/elementor-widgets/tech-box.php:317
+#: inc/backend/elementor-widgets/testimonial-carousel.php:485
+#: inc/backend/elementor-widgets/video-button.php:176
+#: inc/backend/elementor-widgets/video-button.php:209
+#: inc/backend/elementor-widgets/video-button.php:254
+msgid "Color"
+msgstr ""
+
+#: inc/backend/elementor-widgets/accordions.php:194
+msgid "Color Active"
+msgstr ""
+
+#: inc/backend/elementor-widgets/accordions.php:214
+#: inc/backend/elementor-widgets/accordions.php:232
+#: inc/backend/elementor-widgets/accordions.php:273
+#: inc/backend/elementor-widgets/contact-info.php:56
+#: inc/backend/elementor-widgets/contact-info.php:166
+#: inc/backend/elementor-widgets/icon-box-1.php:82
+#: inc/backend/elementor-widgets/icon-box-1.php:155
+#: inc/backend/elementor-widgets/icon-box-2.php:70
+#: inc/backend/elementor-widgets/icon-box-2.php:283
+#: inc/backend/elementor-widgets/message-box.php:54
+#: inc/backend/elementor-widgets/message-box.php:161
+#: inc/backend/elementor-widgets/number-box.php:56
+#: inc/backend/elementor-widgets/number-box.php:213
+#: inc/backend/elementor-widgets/pricing-table.php:95
+#: inc/backend/elementor-widgets/pricing-table.php:610
+#: inc/backend/elementor-widgets/service-box-1.php:56
+#: inc/backend/elementor-widgets/service-box-1.php:221
+#: inc/backend/elementor-widgets/service-box-2.php:56
+#: inc/backend/elementor-widgets/service-box-2.php:306
+#: inc/backend/elementor-widgets/social-share.php:111
+#: inc/backend/elementor-widgets/team.php:91
+#: inc/backend/elementor-widgets/tech-box.php:83
+#: inc/backend/elementor-widgets/tech-box.php:236
+msgid "Icon"
+msgstr ""
+
+#: inc/backend/elementor-widgets/accordions.php:225
+#: inc/backend/elementor-widgets/button.php:139
+#: inc/backend/elementor-widgets/icon-box-2.php:199
+#: inc/backend/elementor-widgets/number-box.php:154
+#: inc/backend/elementor-widgets/number-box.php:240
+#: inc/backend/elementor-widgets/pricing-table.php:222
+#: inc/backend/elementor-widgets/service-box-1.php:173
+#: inc/backend/elementor-widgets/service-box-2.php:176
+#: inc/backend/elementor-widgets/support-box.php:175
+#: inc/backend/elementor-widgets/tabs.php:135
+#: inc/backend/elementor-widgets/tech-box.php:169
+#: inc/backend/elementor-widgets/video-button.php:169
+msgid "Normal"
+msgstr ""
+
+#: inc/backend/elementor-widgets/accordions.php:266
+msgid "Active"
+msgstr ""
+
+#: inc/backend/elementor-widgets/accordions.php:338
+#: inc/backend/elementor-widgets/industries-carousel.php:210
+#: inc/backend/elementor-widgets/portfolio-carousel.php:214
+#: inc/backend/elementor-widgets/post-carousel.php:129
+#: inc/backend/elementor-widgets/post-grid.php:94
+#: inc/backend/elementor-widgets/social-share.php:174
+#: inc/backend/elementor-widgets/tabs.php:236
+#: inc/backend/elementor-widgets/team.php:211
+#: inc/backend/elementor-widgets/testimonial-carousel.php:234
+msgid "Padding"
+msgstr ""
+
+#: inc/backend/elementor-widgets/button.php:17
+msgid "Engitech Button"
+msgstr ""
+
+#: inc/backend/elementor-widgets/button.php:43
+msgid "Normal Button"
+msgstr ""
+
+#: inc/backend/elementor-widgets/button.php:44
+msgid "Button With Icon"
+msgstr ""
+
+#: inc/backend/elementor-widgets/button.php:52
+msgid "With Arrow"
+msgstr ""
+
+#: inc/backend/elementor-widgets/button.php:62
+#: inc/backend/elementor-widgets/counter-2.php:86
+#: inc/backend/elementor-widgets/counter-2.php:309
+#: inc/backend/elementor-widgets/portfolio-carousel.php:360
+#: inc/backend/elementor-widgets/post-carousel.php:229
+#: inc/backend/elementor-widgets/post-grid.php:194
+#: inc/backend/elementor-widgets/pricing-table.php:569
+#: inc/backend/elementor-widgets/service-box-2.php:127
+#: inc/backend/elementor-widgets/service-box-2.php:448
+#: inc/backend/elementor-widgets/support-box.php:83
+#: inc/backend/elementor-widgets/support-box.php:281
+#: inc/backend/elementor-widgets/video-button.php:36
+#: inc/backend/elementor-widgets/video-button.php:102
+msgid "Button"
+msgstr ""
+
+#: inc/backend/elementor-widgets/button.php:69
+#: inc/backend/elementor-widgets/contact-info.php:129
+#: inc/backend/elementor-widgets/countdown.php:174
+#: inc/backend/elementor-widgets/counter-2.php:147
+#: inc/backend/elementor-widgets/counter.php:128
+msgid "Style"
+msgstr ""
+
+#: inc/backend/elementor-widgets/button.php:104
+#: inc/backend/elementor-widgets/progress-bars.php:202
+msgid "Text"
+msgstr ""
+
+#: inc/backend/elementor-widgets/button.php:106
+msgid "Click here"
+msgstr ""
+
+#: inc/backend/elementor-widgets/button.php:115
+#: inc/backend/elementor-widgets/counter-2.php:98
+#: inc/backend/elementor-widgets/icon-box-1.php:144
+#: inc/backend/elementor-widgets/icon-box-2.php:132
+#: inc/backend/elementor-widgets/image-box.php:64
+#: inc/backend/elementor-widgets/pricing-table.php:189
+#: inc/backend/elementor-widgets/service-box-1.php:121
+#: inc/backend/elementor-widgets/service-box-2.php:139
+#: inc/backend/elementor-widgets/support-box.php:95
+#: inc/backend/elementor-widgets/tech-box.php:136
+#: inc/backend/elementor-widgets/video-button.php:72
+msgid "https://your-link.com"
+msgstr ""
+
+#: inc/backend/elementor-widgets/button.php:174
+#: inc/backend/elementor-widgets/icon-box-2.php:234
+#: inc/backend/elementor-widgets/number-box.php:181
+#: inc/backend/elementor-widgets/number-box.php:271
+#: inc/backend/elementor-widgets/pricing-table.php:256
+#: inc/backend/elementor-widgets/service-box-1.php:191
+#: inc/backend/elementor-widgets/service-box-2.php:205
+#: inc/backend/elementor-widgets/support-box.php:196
+#: inc/backend/elementor-widgets/tech-box.php:196
+#: inc/backend/elementor-widgets/video-button.php:202
+msgid "Hover"
+msgstr ""
+
+#: inc/backend/elementor-widgets/button.php:206
+#: inc/backend/elementor-widgets/service-box-1.php:205
+#: inc/backend/elementor-widgets/video-button.php:232
+msgid "Hover Animation"
+msgstr ""
+
+#: inc/backend/elementor-widgets/contact-info.php:17
+msgid "Engitech Contact Info"
+msgstr ""
+
+#: inc/backend/elementor-widgets/contact-info.php:43
+#: inc/backend/elementor-widgets/icon-box-1.php:69
+#: inc/backend/elementor-widgets/icon-box-2.php:57
+#: inc/backend/elementor-widgets/message-box.php:42
+#: inc/backend/elementor-widgets/number-box.php:43
+#: inc/backend/elementor-widgets/pricing-table.php:79
+#: inc/backend/elementor-widgets/service-box-1.php:43
+#: inc/backend/elementor-widgets/service-box-2.php:43
+#: inc/backend/elementor-widgets/tech-box.php:70
+msgid "Icon Type"
+msgstr ""
+
+#: inc/backend/elementor-widgets/contact-info.php:47
+#: inc/backend/elementor-widgets/icon-box-1.php:73
+#: inc/backend/elementor-widgets/icon-box-2.php:61
+#: inc/backend/elementor-widgets/message-box.php:46
+#: inc/backend/elementor-widgets/number-box.php:47
+#: inc/backend/elementor-widgets/pricing-table.php:83
+#: inc/backend/elementor-widgets/service-box-1.php:47
+#: inc/backend/elementor-widgets/service-box-2.php:47
+#: inc/backend/elementor-widgets/tech-box.php:74
+msgid "Font Icon"
+msgstr ""
+
+#: inc/backend/elementor-widgets/contact-info.php:48
+#: inc/backend/elementor-widgets/icon-box-1.php:74
+#: inc/backend/elementor-widgets/icon-box-2.php:62
+#: inc/backend/elementor-widgets/number-box.php:48
+#: inc/backend/elementor-widgets/pricing-table.php:84
+#: inc/backend/elementor-widgets/service-box-1.php:48
+#: inc/backend/elementor-widgets/service-box-2.php:48
+#: inc/backend/elementor-widgets/tech-box.php:75
+msgid "Image Icon"
+msgstr ""
+
+#: inc/backend/elementor-widgets/contact-info.php:49
+#: inc/backend/elementor-widgets/icon-box-1.php:75
+#: inc/backend/elementor-widgets/icon-box-2.php:63
+#: inc/backend/elementor-widgets/message-box.php:47
+#: inc/backend/elementor-widgets/number-box.php:49
+#: inc/backend/elementor-widgets/pricing-table.php:85
+#: inc/backend/elementor-widgets/service-box-1.php:49
+#: inc/backend/elementor-widgets/service-box-2.php:49
+#: inc/backend/elementor-widgets/tech-box.php:76
+msgid "Custom Icon"
+msgstr ""
+
+#: inc/backend/elementor-widgets/contact-info.php:72
+#: inc/backend/elementor-widgets/icon-box-1.php:98
+#: inc/backend/elementor-widgets/number-box.php:72
+#: inc/backend/elementor-widgets/pricing-table.php:112
+#: inc/backend/elementor-widgets/service-box-1.php:72
+#: inc/backend/elementor-widgets/service-box-2.php:72
+#: inc/backend/elementor-widgets/team.php:43
+#: inc/backend/elementor-widgets/tech-box.php:99
+msgid "Photo"
+msgstr ""
+
+#: inc/backend/elementor-widgets/contact-info.php:85
+#: inc/backend/elementor-widgets/icon-box-1.php:111
+#: inc/backend/elementor-widgets/icon-box-2.php:99
+#: inc/backend/elementor-widgets/message-box.php:70
+#: inc/backend/elementor-widgets/number-box.php:85
+#: inc/backend/elementor-widgets/pricing-table.php:126
+#: inc/backend/elementor-widgets/service-box-1.php:85
+#: inc/backend/elementor-widgets/service-box-2.php:85
+#: inc/backend/elementor-widgets/tech-box.php:112
+msgid "Custom Class"
+msgstr ""
+
+#: inc/backend/elementor-widgets/contact-info.php:87
+msgid "flaticon-world-globe"
+msgstr ""
+
+#: inc/backend/elementor-widgets/contact-info.php:98
+msgid "Our Address:"
+msgstr ""
+
+#: inc/backend/elementor-widgets/contact-info.php:107
+msgid "411 University St, Seattle, USA"
+msgstr ""
+
+#: inc/backend/elementor-widgets/contact-info.php:114
+#: inc/backend/elementor-widgets/icon-box-2.php:43
+msgid "Box Style"
+msgstr ""
+
+#: inc/backend/elementor-widgets/contact-info.php:118
+msgid "Icon Left"
+msgstr ""
+
+#: inc/backend/elementor-widgets/contact-info.php:119
+msgid "Icon Center"
+msgstr ""
+
+#: inc/backend/elementor-widgets/contact-info.php:150
+#: inc/backend/elementor-widgets/counter-2.php:164
+#: inc/backend/elementor-widgets/icon-box-2.php:183
+#: inc/backend/elementor-widgets/message-box.php:139
+#: inc/backend/elementor-widgets/number-box.php:138
+#: inc/backend/elementor-widgets/pricing-table.php:206
+#: inc/backend/elementor-widgets/service-box-1.php:139
+#: inc/backend/elementor-widgets/service-box-2.php:160
+#: inc/backend/elementor-widgets/support-box.php:228
+#: inc/backend/elementor-widgets/tech-box.php:154
+msgid "Padding Box"
+msgstr ""
+
+#: inc/backend/elementor-widgets/contact-info.php:185
+#: inc/backend/elementor-widgets/counter.php:235
+#: inc/backend/elementor-widgets/icon-box-1.php:163
+#: inc/backend/elementor-widgets/icon-box-2.php:291
+#: inc/backend/elementor-widgets/industries-carousel.php:258
+#: inc/backend/elementor-widgets/message-box.php:191
+#: inc/backend/elementor-widgets/social-share.php:158
+#: inc/backend/elementor-widgets/tech-box.php:244
+#: inc/backend/elementor-widgets/testimonial-carousel.php:282
+#: inc/backend/elementor-widgets/video-button.php:143
+msgid "Size"
+msgstr ""
+
+#: inc/backend/elementor-widgets/contact-info.php:264
+#: inc/backend/elementor-widgets/counter-2.php:265
+#: inc/backend/elementor-widgets/icon-box-1.php:316
+#: inc/backend/elementor-widgets/icon-box-2.php:415
+#: inc/backend/elementor-widgets/message-box.php:279
+#: inc/backend/elementor-widgets/number-box.php:371
+#: inc/backend/elementor-widgets/service-box-1.php:307
+#: inc/backend/elementor-widgets/service-box-2.php:420
+#: inc/backend/elementor-widgets/support-box.php:253
+msgid "Description"
+msgstr ""
+
+#: inc/backend/elementor-widgets/countdown.php:17
+msgid "Engitech CountDown"
+msgstr ""
+
+#: inc/backend/elementor-widgets/countdown.php:35
+msgid "CountDown"
+msgstr ""
+
+#: inc/backend/elementor-widgets/countdown.php:70
+msgid "2020-10-22 12:00"
+msgstr ""
+
+#: inc/backend/elementor-widgets/countdown.php:77
+msgid "UTC Timezone Offset"
+msgstr ""
+
+#: inc/backend/elementor-widgets/countdown.php:79
+msgid "0"
+msgstr ""
+
+#: inc/backend/elementor-widgets/countdown.php:88
+msgid "One"
+msgstr ""
+
+#: inc/backend/elementor-widgets/countdown.php:94
+#: inc/backend/elementor-widgets/countdown.php:96
+msgid "Day"
+msgstr ""
+
+#: inc/backend/elementor-widgets/countdown.php:102
+#: inc/backend/elementor-widgets/countdown.php:104
+msgid "Hour"
+msgstr ""
+
+#: inc/backend/elementor-widgets/countdown.php:110
+#: inc/backend/elementor-widgets/countdown.php:112
+msgid "Minute"
+msgstr ""
+
+#: inc/backend/elementor-widgets/countdown.php:118
+#: inc/backend/elementor-widgets/countdown.php:120
+msgid "Second"
+msgstr ""
+
+#: inc/backend/elementor-widgets/countdown.php:129
+msgid "Multi"
+msgstr ""
+
+#: inc/backend/elementor-widgets/countdown.php:135
+#: inc/backend/elementor-widgets/countdown.php:137
+msgid "Days"
+msgstr ""
+
+#: inc/backend/elementor-widgets/countdown.php:143
+#: inc/backend/elementor-widgets/countdown.php:145
+msgid "Hours"
+msgstr ""
+
+#: inc/backend/elementor-widgets/countdown.php:151
+#: inc/backend/elementor-widgets/countdown.php:153
+msgid "Minutes"
+msgstr ""
+
+#: inc/backend/elementor-widgets/countdown.php:159
+#: inc/backend/elementor-widgets/countdown.php:161
+msgid "Seconds"
+msgstr ""
+
+#: inc/backend/elementor-widgets/countdown.php:183
+#: inc/backend/elementor-widgets/counter.php:137
+#: inc/backend/elementor-widgets/number-box.php:410
+#: inc/backend/elementor-widgets/service-box-2.php:348
+#: inc/backend/elementor-widgets/support-box.php:54
+#: inc/backend/elementor-widgets/support-box.php:155
+msgid "Number"
+msgstr ""
+
+#: inc/backend/elementor-widgets/countdown.php:227
+msgid "Texts"
+msgstr ""
+
+#: inc/backend/elementor-widgets/countdown.php:256
+msgid "Seperator"
+msgstr ""
+
+#: inc/backend/elementor-widgets/counter-2.php:17
+msgid "Engitech Counter 2"
+msgstr ""
+
+#: inc/backend/elementor-widgets/counter-2.php:35
+#: inc/backend/elementor-widgets/counter.php:35
+msgid "Counter"
+msgstr ""
+
+#: inc/backend/elementor-widgets/counter-2.php:68
+#: inc/backend/elementor-widgets/counter.php:81
+#: inc/frontend/widgets/instagram-feeds.php:68
+#: inc/frontend/widgets/recent-posts.php:111
+msgid "Title:"
+msgstr ""
+
+#: inc/backend/elementor-widgets/counter-2.php:70
+msgid "Countries Worldwide"
+msgstr ""
+
+#: inc/backend/elementor-widgets/counter-2.php:79
+msgid ""
+"To succeed, every software solution must be deeply integrated into the "
+"existing tech environment..."
+msgstr ""
+
+#: inc/backend/elementor-widgets/counter-2.php:88
+#: inc/backend/elementor-widgets/service-box-2.php:129
+#: inc/backend/elementor-widgets/support-box.php:85
+msgid "<i class=\"flaticon-right-arrow-1\"></i> LEARN MORE"
+msgstr ""
+
+#: inc/backend/elementor-widgets/counter-2.php:110
+msgid "15"
+msgstr ""
+
+#: inc/backend/elementor-widgets/counter-2.php:117
+#: inc/backend/elementor-widgets/counter.php:99
+msgid "After Number:"
+msgstr ""
+
+#: inc/backend/elementor-widgets/counter-2.php:119
+msgid "+"
+msgstr ""
+
+#: inc/backend/elementor-widgets/counter-2.php:126
+#: inc/backend/elementor-widgets/counter.php:107
+msgid "Duration"
+msgstr ""
+
+#: inc/backend/elementor-widgets/counter-2.php:155
+#: inc/backend/elementor-widgets/icon-box-2.php:172
+#: inc/backend/elementor-widgets/message-box.php:104
+#: inc/backend/elementor-widgets/number-box.php:130
+#: inc/backend/elementor-widgets/service-box-1.php:131
+#: inc/backend/elementor-widgets/service-box-2.php:152
+#: inc/backend/elementor-widgets/tech-box.php:146
+msgid "Box"
+msgstr ""
+
+#: inc/backend/elementor-widgets/counter-2.php:177
+msgid "Number Main"
+msgstr ""
+
+#: inc/backend/elementor-widgets/counter-2.php:330
+msgid "Big Number"
+msgstr ""
+
+#: inc/backend/elementor-widgets/counter.php:17
+msgid "Engitech Counter"
+msgstr ""
+
+#: inc/backend/elementor-widgets/counter.php:42
+msgid "Style:"
+msgstr ""
+
+#: inc/backend/elementor-widgets/counter.php:46
+msgid "Number Top"
+msgstr ""
+
+#: inc/backend/elementor-widgets/counter.php:47
+msgid "Number Bottom"
+msgstr ""
+
+#: inc/backend/elementor-widgets/counter.php:83
+msgid "Projects Done"
+msgstr ""
+
+#: inc/backend/elementor-widgets/counter.php:92
+msgid "1990"
+msgstr ""
+
+#: inc/backend/elementor-widgets/counter.php:211
+msgid "Dot"
+msgstr ""
+
+#: inc/backend/elementor-widgets/heading.php:17
+msgid "Engitech Heading"
+msgstr ""
+
+#: inc/backend/elementor-widgets/heading.php:43
+msgid "Subtitle & Title"
+msgstr ""
+
+#: inc/backend/elementor-widgets/heading.php:52
+msgid "// our service"
+msgstr ""
+
+#: inc/backend/elementor-widgets/heading.php:53
+msgid "Enter your subtitle"
+msgstr ""
+
+#: inc/backend/elementor-widgets/heading.php:64
+msgid "What we do"
+msgstr ""
+
+#: inc/backend/elementor-widgets/heading.php:65
+msgid "Enter your title"
+msgstr ""
+
+#: inc/backend/elementor-widgets/heading.php:103
+msgid "Heading"
+msgstr ""
+
+#: inc/backend/elementor-widgets/heading.php:112
+msgid "Subtitle"
+msgstr ""
+
+#: inc/backend/elementor-widgets/icon-box-1.php:17
+msgid "Engitech Icon Box 1"
+msgstr ""
+
+#: inc/backend/elementor-widgets/icon-box-1.php:36
+#: inc/backend/elementor-widgets/icon-box-2.php:36
+msgid "Icon Box"
+msgstr ""
+
+#: inc/backend/elementor-widgets/icon-box-1.php:113
+#: inc/backend/elementor-widgets/number-box.php:87
+#: inc/backend/elementor-widgets/pricing-table.php:128
+#: inc/backend/elementor-widgets/service-box-1.php:87
+#: inc/backend/elementor-widgets/service-box-2.php:87
+msgid "flaticon-report"
+msgstr ""
+
+#: inc/backend/elementor-widgets/icon-box-1.php:125
+#: inc/backend/elementor-widgets/number-box.php:109
+#: inc/backend/elementor-widgets/service-box-2.php:109
+msgid "Content Marketing"
+msgstr ""
+
+#: inc/backend/elementor-widgets/icon-box-1.php:135
+#: inc/backend/elementor-widgets/number-box.php:120
+#: inc/backend/elementor-widgets/service-box-2.php:120
+msgid ""
+"You can provide the answers that your potential customers are trying to find,"
+" so you can become the industry."
+msgstr ""
+
+#: inc/backend/elementor-widgets/icon-box-1.php:268
+msgid "Line"
+msgstr ""
+
+#: inc/backend/elementor-widgets/icon-box-1.php:303
+#: inc/backend/elementor-widgets/icon-box-2.php:337
+#: inc/backend/elementor-widgets/icon-box-2.php:395
+#: inc/backend/elementor-widgets/icon-box-2.php:434
+#: inc/backend/elementor-widgets/number-box.php:351
+#: inc/backend/elementor-widgets/number-box.php:390
+#: inc/backend/elementor-widgets/number-box.php:429
+#: inc/backend/elementor-widgets/service-box-1.php:377
+#: inc/backend/elementor-widgets/service-box-2.php:490
+#: inc/backend/elementor-widgets/team.php:368
+#: inc/backend/elementor-widgets/testimonial-carousel.php:496
+msgid "Hover Color"
+msgstr ""
+
+#: inc/backend/elementor-widgets/icon-box-2.php:17
+msgid "Engitech Icon Box 2"
+msgstr ""
+
+#: inc/backend/elementor-widgets/icon-box-2.php:47
+msgid "Style 1: Icon Left"
+msgstr ""
+
+#: inc/backend/elementor-widgets/icon-box-2.php:48
+msgid "Style 2: Icon Top"
+msgstr ""
+
+#: inc/backend/elementor-widgets/icon-box-2.php:49
+msgid "Style 3: Icon Right"
+msgstr ""
+
+#: inc/backend/elementor-widgets/icon-box-2.php:101
+msgid "flaticon-monitor"
+msgstr ""
+
+#: inc/backend/elementor-widgets/icon-box-2.php:113
+msgid "UI/UX Design"
+msgstr ""
+
+#: inc/backend/elementor-widgets/icon-box-2.php:123
+msgid ""
+"Build the product you need on time with an experienced team that uses a "
+"clear and effective design process."
+msgstr ""
+
+#: inc/backend/elementor-widgets/image-box.php:17
+msgid "Engitech Image Box"
+msgstr ""
+
+#: inc/backend/elementor-widgets/image-box.php:36
+msgid "Image Box"
+msgstr ""
+
+#: inc/backend/elementor-widgets/image-box.php:54
+msgid "Our Mission"
+msgstr ""
+
+#: inc/backend/elementor-widgets/industries-carousel.php:17
+msgid "Engitech Industries Carousel"
+msgstr ""
+
+#: inc/backend/elementor-widgets/industries-carousel.php:35
+msgid "Industries"
+msgstr ""
+
+#: inc/backend/elementor-widgets/industries-carousel.php:42
+#: inc/backend/elementor-widgets/industries-carousel.php:232
+msgid "Text Image"
+msgstr ""
+
+#: inc/backend/elementor-widgets/industries-carousel.php:77
+#: inc/backend/elementor-widgets/industries-carousel.php:85
+#: inc/backend/elementor-widgets/industries-carousel.php:93
+msgid ""
+"The global economy is moving towards a new identity. In order to remain "
+"competitive and profitable, the banking and finance."
+msgstr ""
+
+#: inc/backend/elementor-widgets/industries-carousel.php:112
+#: inc/backend/elementor-widgets/industries-carousel.php:150
+#: inc/backend/elementor-widgets/portfolio-carousel.php:73
+#: inc/backend/elementor-widgets/portfolio-carousel.php:115
+#: inc/backend/elementor-widgets/portfolio-carousel.php:127
+#: inc/backend/elementor-widgets/post-carousel.php:110
+#: inc/backend/elementor-widgets/testimonial-carousel.php:151
+#: inc/backend/elementor-widgets/testimonial-carousel.php:163
+#: inc/backend/elementor-widgets/video-button.php:89
+msgid "Yes"
+msgstr ""
+
+#: inc/backend/elementor-widgets/industries-carousel.php:113
+#: inc/backend/elementor-widgets/industries-carousel.php:151
+#: inc/backend/elementor-widgets/portfolio-carousel.php:74
+#: inc/backend/elementor-widgets/portfolio-carousel.php:116
+#: inc/backend/elementor-widgets/portfolio-carousel.php:128
+#: inc/backend/elementor-widgets/post-carousel.php:111
+#: inc/backend/elementor-widgets/testimonial-carousel.php:152
+#: inc/backend/elementor-widgets/testimonial-carousel.php:164
+#: inc/backend/elementor-widgets/video-button.php:90
+msgid "No"
+msgstr ""
+
+#: inc/backend/elementor-widgets/industries-carousel.php:120
+#: inc/backend/elementor-widgets/portfolio-carousel.php:81
+#: inc/backend/elementor-widgets/post-carousel.php:79
+#: inc/backend/elementor-widgets/testimonial-carousel.php:121
+msgid "Slides to Show"
+msgstr ""
+
+#: inc/backend/elementor-widgets/industries-carousel.php:124
+#: inc/backend/elementor-widgets/industries-carousel.php:137
+#: inc/backend/elementor-widgets/portfolio-carousel.php:85
+#: inc/backend/elementor-widgets/portfolio-carousel.php:100
+#: inc/backend/elementor-widgets/post-carousel.php:96
+#: inc/backend/elementor-widgets/testimonial-carousel.php:125
+#: inc/backend/elementor-widgets/testimonial-carousel.php:138
+msgid "1"
+msgstr ""
+
+#: inc/backend/elementor-widgets/industries-carousel.php:125
+#: inc/backend/elementor-widgets/industries-carousel.php:138
+#: inc/backend/elementor-widgets/portfolio-carousel.php:86
+#: inc/backend/elementor-widgets/portfolio-carousel.php:101
+#: inc/backend/elementor-widgets/post-carousel.php:83
+#: inc/backend/elementor-widgets/post-carousel.php:97
+#: inc/backend/elementor-widgets/testimonial-carousel.php:126
+#: inc/backend/elementor-widgets/testimonial-carousel.php:139
+msgid "2"
+msgstr ""
+
+#: inc/backend/elementor-widgets/industries-carousel.php:126
+#: inc/backend/elementor-widgets/industries-carousel.php:139
+#: inc/backend/elementor-widgets/portfolio-carousel.php:87
+#: inc/backend/elementor-widgets/portfolio-carousel.php:102
+#: inc/backend/elementor-widgets/post-carousel.php:84
+#: inc/backend/elementor-widgets/post-carousel.php:98
+#: inc/backend/elementor-widgets/testimonial-carousel.php:127
+#: inc/backend/elementor-widgets/testimonial-carousel.php:140
+msgid "3"
+msgstr ""
+
+#: inc/backend/elementor-widgets/industries-carousel.php:133
+#: inc/backend/elementor-widgets/portfolio-carousel.php:96
+#: inc/backend/elementor-widgets/post-carousel.php:92
+#: inc/backend/elementor-widgets/testimonial-carousel.php:134
+msgid "Slides to Scroll"
+msgstr ""
+
+#: inc/backend/elementor-widgets/industries-carousel.php:146
+#: inc/backend/elementor-widgets/portfolio-carousel.php:123
+#: inc/backend/elementor-widgets/post-carousel.php:106
+#: inc/backend/elementor-widgets/testimonial-carousel.php:159
+msgid "Dots Slider"
+msgstr ""
+
+#: inc/backend/elementor-widgets/industries-carousel.php:170
+#: inc/backend/elementor-widgets/testimonial-carousel.php:183
+msgid "Content Box"
+msgstr ""
+
+#: inc/backend/elementor-widgets/industries-carousel.php:340
+#: inc/backend/elementor-widgets/portfolio-carousel.php:426
+#: inc/backend/elementor-widgets/post-carousel.php:272
+#: inc/backend/elementor-widgets/testimonial-carousel.php:395
+msgid "Dots"
+msgstr ""
+
+#: inc/backend/elementor-widgets/message-box.php:17
+msgid "Engitech Message Box"
+msgstr ""
+
+#: inc/backend/elementor-widgets/message-box.php:35
+msgid "Message Box"
+msgstr ""
+
+#: inc/backend/elementor-widgets/message-box.php:72
+msgid "flaticon-info"
+msgstr ""
+
+#: inc/backend/elementor-widgets/message-box.php:84
+msgid "Information Box"
+msgstr ""
+
+#: inc/backend/elementor-widgets/message-box.php:94
+msgid "We help ambitious businesses like yours generate."
+msgstr ""
+
+#: inc/backend/elementor-widgets/number-box.php:17
+msgid "Engitech Number Box"
+msgstr ""
+
+#: inc/backend/elementor-widgets/number-box.php:36
+msgid "Number Box"
+msgstr ""
+
+#: inc/backend/elementor-widgets/number-box.php:97
+#: inc/backend/elementor-widgets/service-box-2.php:97
+msgid "Box Number"
+msgstr ""
+
+#: inc/backend/elementor-widgets/number-box.php:99
+#: inc/backend/elementor-widgets/service-box-2.php:99
+#: inc/backend/elementor-widgets/support-box.php:56
+msgid "01"
+msgstr ""
+
+#: inc/backend/elementor-widgets/portfolio-carousel.php:17
+msgid "Engitech Portfolio Carousel"
+msgstr ""
+
+#: inc/backend/elementor-widgets/portfolio-carousel.php:36
+msgid "Projects"
+msgstr ""
+
+#: inc/backend/elementor-widgets/portfolio-carousel.php:42
+#: inc/backend/elementor-widgets/portfolio-filter.php:42
+#: inc/backend/elementor-widgets/post-carousel.php:43
+#: inc/backend/elementor-widgets/post-grid.php:43
+msgid "Select Categories"
+msgstr ""
+
+#: inc/backend/elementor-widgets/portfolio-carousel.php:47
+#: inc/backend/elementor-widgets/portfolio-filter.php:47
+#: inc/backend/elementor-widgets/post-carousel.php:48
+#: inc/backend/elementor-widgets/post-grid.php:48
+msgid "All Categories"
+msgstr ""
+
+#: inc/backend/elementor-widgets/portfolio-carousel.php:53
+#: inc/backend/elementor-widgets/portfolio-filter.php:106
+msgid "Show Number Projects"
+msgstr ""
+
+#: inc/backend/elementor-widgets/portfolio-carousel.php:61
+#: inc/backend/elementor-widgets/post-carousel.php:71
+msgid "Slider"
+msgstr ""
+
+#: inc/backend/elementor-widgets/portfolio-carousel.php:88
+#: inc/backend/elementor-widgets/portfolio-carousel.php:103
+#: inc/backend/elementor-widgets/post-carousel.php:85
+#: inc/backend/elementor-widgets/post-carousel.php:99
+msgid "4"
+msgstr ""
+
+#: inc/backend/elementor-widgets/portfolio-carousel.php:89
+#: inc/backend/elementor-widgets/portfolio-carousel.php:104
+msgid "5"
+msgstr ""
+
+#: inc/backend/elementor-widgets/portfolio-carousel.php:111
+#: inc/backend/elementor-widgets/testimonial-carousel.php:147
+msgid "Nav Slider"
+msgstr ""
+
+#: inc/backend/elementor-widgets/portfolio-carousel.php:135
+#: inc/backend/elementor-widgets/portfolio-filter.php:89
+msgid "Gap Width"
+msgstr ""
+
+#: inc/backend/elementor-widgets/portfolio-carousel.php:154
+msgid "Info Box"
+msgstr ""
+
+#: inc/backend/elementor-widgets/portfolio-carousel.php:296
+#: inc/backend/elementor-widgets/portfolio-filter.php:354
+msgid "Category"
+msgstr ""
+
+#: inc/backend/elementor-widgets/portfolio-carousel.php:304
+#: inc/backend/elementor-widgets/portfolio-filter.php:362
+msgid "Show Category"
+msgstr ""
+
+#: inc/backend/elementor-widgets/portfolio-carousel.php:306
+#: inc/backend/elementor-widgets/portfolio-filter.php:55
+#: inc/backend/elementor-widgets/portfolio-filter.php:364
+msgid "Show"
+msgstr ""
+
+#: inc/backend/elementor-widgets/portfolio-carousel.php:307
+#: inc/backend/elementor-widgets/portfolio-filter.php:56
+#: inc/backend/elementor-widgets/portfolio-filter.php:365
+msgid "Hide"
+msgstr ""
+
+#: inc/backend/elementor-widgets/portfolio-carousel.php:394
+#: inc/backend/elementor-widgets/testimonial-carousel.php:453
+msgid "Arrow"
+msgstr ""
+
+#: inc/backend/elementor-widgets/portfolio-filter.php:17
+msgid "Engitech Portfolio Filter"
+msgstr ""
+
+#: inc/backend/elementor-widgets/portfolio-filter.php:53
+msgid "Show Filter"
+msgstr ""
+
+#: inc/backend/elementor-widgets/portfolio-filter.php:64
+msgid "All Text"
+msgstr ""
+
+#: inc/backend/elementor-widgets/portfolio-filter.php:75
+#: inc/backend/elementor-widgets/post-grid.php:54
+msgid "Columns"
+msgstr ""
+
+#: inc/backend/elementor-widgets/portfolio-filter.php:118
+msgid "Grid"
+msgstr ""
+
+#: inc/backend/elementor-widgets/portfolio-filter.php:119
+msgid "Masonry"
+msgstr ""
+
+#: inc/backend/elementor-widgets/portfolio-filter.php:129
+msgid "Filter"
+msgstr ""
+
+#: inc/backend/elementor-widgets/portfolio-filter.php:214
+msgid "Overlay Box"
+msgstr ""
+
+#: inc/backend/elementor-widgets/portfolio-filter.php:259
+msgid "Position Bottom"
+msgstr ""
+
+#: inc/backend/elementor-widgets/portfolio-filter.php:279
+msgid "Position Bottom Hover"
+msgstr ""
+
+#: inc/backend/elementor-widgets/post-carousel.php:17
+msgid "Engitech Post Carousel"
+msgstr ""
+
+#: inc/backend/elementor-widgets/post-carousel.php:36
+msgid "Post Carousel"
+msgstr ""
+
+#: inc/backend/elementor-widgets/post-carousel.php:55
+#: inc/backend/elementor-widgets/post-grid.php:67
+msgid "Show Number Posts"
+msgstr ""
+
+#: inc/backend/elementor-widgets/post-carousel.php:65
+#: inc/backend/elementor-widgets/post-grid.php:77
+msgid "<i class=\"flaticon-right-arrow-1\"></i>LEARN MORE"
+msgstr ""
+
+#: inc/backend/elementor-widgets/post-carousel.php:250
+#: inc/backend/elementor-widgets/post-grid.php:215
+msgid "Color Hover"
+msgstr ""
+
+#: inc/backend/elementor-widgets/post-grid.php:17
+msgid "Engitech Post Grid"
+msgstr ""
+
+#: inc/backend/elementor-widgets/post-grid.php:36
+msgid "Post Grid"
+msgstr ""
+
+#: inc/backend/elementor-widgets/pricing-table.php:17
+msgid "Engitech Pricing Table"
+msgstr ""
+
+#: inc/backend/elementor-widgets/pricing-table.php:36
+msgid "Pricing Table"
+msgstr ""
+
+#: inc/backend/elementor-widgets/pricing-table.php:141
+msgid "Standard"
+msgstr ""
+
+#: inc/backend/elementor-widgets/pricing-table.php:149
+#: inc/backend/elementor-widgets/pricing-table.php:404
+msgid "Price"
+msgstr ""
+
+#: inc/backend/elementor-widgets/pricing-table.php:151
+msgid "<sup>$</sup> 69.99"
+msgstr ""
+
+#: inc/backend/elementor-widgets/pricing-table.php:159
+msgid "Text Under Price"
+msgstr ""
+
+#: inc/backend/elementor-widgets/pricing-table.php:161
+msgid "Monthly Package"
+msgstr ""
+
+#: inc/backend/elementor-widgets/pricing-table.php:171
+msgid ""
+"<ul><li>Social Media Marketing</li><li>2.100 Keywords</li><li>One Way Link "
+"Building</li></ul>"
+msgstr ""
+
+#: inc/backend/elementor-widgets/pricing-table.php:180
+msgid "Choose Plane"
+msgstr ""
+
+#: inc/backend/elementor-widgets/pricing-table.php:199
+msgid "Table"
+msgstr ""
+
+#: inc/backend/elementor-widgets/pricing-table.php:287
+#: inc/backend/elementor-widgets/service-box-2.php:243
+msgid "Title Color"
+msgstr ""
+
+#: inc/backend/elementor-widgets/pricing-table.php:299
+msgid "Price Color"
+msgstr ""
+
+#: inc/backend/elementor-widgets/pricing-table.php:310
+msgid "Under Price Color"
+msgstr ""
+
+#: inc/backend/elementor-widgets/pricing-table.php:321
+msgid "Details Color"
+msgstr ""
+
+#: inc/backend/elementor-widgets/pricing-table.php:332
+msgid "Details Active Color"
+msgstr ""
+
+#: inc/backend/elementor-widgets/pricing-table.php:448
+msgid "Under Price"
+msgstr ""
+
+#: inc/backend/elementor-widgets/pricing-table.php:492
+msgid "Details"
+msgstr ""
+
+#: inc/backend/elementor-widgets/pricing-table.php:516
+#: inc/backend/elementor-widgets/progress-bars.php:170
+msgid "Line Color"
+msgstr ""
+
+#: inc/backend/elementor-widgets/pricing-table.php:538
+msgid "Active Color"
+msgstr ""
+
+#: inc/backend/elementor-widgets/progress-bars.php:17
+msgid "Engitech Progress Bars"
+msgstr ""
+
+#: inc/backend/elementor-widgets/progress-bars.php:43
+msgid "Bar Style"
+msgstr ""
+
+#: inc/backend/elementor-widgets/progress-bars.php:47
+msgid "Style 1: Line"
+msgstr ""
+
+#: inc/backend/elementor-widgets/progress-bars.php:48
+msgid "Style 2: Circle"
+msgstr ""
+
+#: inc/backend/elementor-widgets/progress-bars.php:58
+msgid "Keyword Research"
+msgstr ""
+
+#: inc/backend/elementor-widgets/progress-bars.php:75
+msgid "Show Percentage"
+msgstr ""
+
+#: inc/backend/elementor-widgets/progress-bars.php:83
+msgid "Title On Right"
+msgstr ""
+
+#: inc/backend/elementor-widgets/progress-bars.php:126
+msgid "Progress Bar"
+msgstr ""
+
+#: inc/backend/elementor-widgets/progress-bars.php:141
+msgid "Height"
+msgstr ""
+
+#: inc/backend/elementor-widgets/progress-bars.php:151
+msgid "Circle Width"
+msgstr ""
+
+#: inc/backend/elementor-widgets/progress-bars.php:182
+#: inc/backend/elementor-widgets/video-button.php:127
+msgid "Line Height"
+msgstr ""
+
+#: inc/backend/elementor-widgets/progress-bars.php:256
+msgid "Percentage"
+msgstr ""
+
+#: inc/backend/elementor-widgets/service-box-1.php:17
+msgid "Engitech Service Box 1"
+msgstr ""
+
+#: inc/backend/elementor-widgets/service-box-1.php:36
+#: inc/backend/elementor-widgets/service-box-2.php:36
+msgid "Service Box"
+msgstr ""
+
+#: inc/backend/elementor-widgets/service-box-1.php:99
+msgid "Custom Software Development"
+msgstr ""
+
+#: inc/backend/elementor-widgets/service-box-1.php:110
+msgid ""
+"You can provide the answers that your potential customers are trying to find,"
+" so you can become the industry. <ul><li><a href=\"#\">eCommerce "
+"solutions</a></li>\n"
+"\t\t\t\t<li><a href=\"#\">Gamification software</a></li><li><a href=\"#\">"
+"Client mobile apps</a></li>\n"
+"\t\t\t\t</ul>"
+msgstr ""
+
+#: inc/backend/elementor-widgets/service-box-1.php:335
+msgid "Links"
+msgstr ""
+
+#: inc/backend/elementor-widgets/service-box-1.php:388
+msgid "Hover Background Color"
+msgstr ""
+
+#: inc/backend/elementor-widgets/service-box-2.php:17
+msgid "Engitech Service Box 2"
+msgstr ""
+
+#: inc/backend/elementor-widgets/service-box-2.php:191
+#: inc/backend/elementor-widgets/service-box-2.php:220
+msgid "Background Box"
+msgstr ""
+
+#: inc/backend/elementor-widgets/service-box-2.php:232
+#: inc/backend/elementor-widgets/support-box.php:203
+msgid "Number Color"
+msgstr ""
+
+#: inc/backend/elementor-widgets/service-box-2.php:265
+msgid "Button Color"
+msgstr ""
+
+#: inc/backend/elementor-widgets/service-box-2.php:276
+msgid "Icon Color"
+msgstr ""
+
+#: inc/backend/elementor-widgets/service-box-2.php:287
+msgid "Icon Background"
+msgstr ""
+
+#: inc/backend/elementor-widgets/social-share.php:17
+msgid "Engitech Social Share"
+msgstr ""
+
+#: inc/backend/elementor-widgets/social-share.php:42
+msgid "Social Share Buttons"
+msgstr ""
+
+#: inc/backend/elementor-widgets/social-share.php:51
+msgid "Buffer"
+msgstr ""
+
+#: inc/backend/elementor-widgets/social-share.php:52
+msgid "Digg"
+msgstr ""
+
+#: inc/backend/elementor-widgets/social-share.php:54
+msgid "Tumbleupon"
+msgstr ""
+
+#: inc/backend/elementor-widgets/social-share.php:56
+msgid "Vk"
+msgstr ""
+
+#: inc/backend/elementor-widgets/social-share.php:57
+msgid "Email"
+msgstr ""
+
+#: inc/backend/elementor-widgets/social-share.php:58
+msgid "Print"
+msgstr ""
+
+#: inc/backend/elementor-widgets/social-share.php:67
+msgid "Shape"
+msgstr ""
+
+#: inc/backend/elementor-widgets/social-share.php:71
+msgid "Rounded"
+msgstr ""
+
+#: inc/backend/elementor-widgets/social-share.php:72
+msgid "Square"
+msgstr ""
+
+#: inc/backend/elementor-widgets/social-share.php:73
+msgid "Circle"
+msgstr ""
+
+#: inc/backend/elementor-widgets/social-share.php:122
+msgid "Official Color"
+msgstr ""
+
+#: inc/backend/elementor-widgets/social-share.php:123
+msgid "Custom"
+msgstr ""
+
+#: inc/backend/elementor-widgets/social-share.php:144
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/backend/elementor-widgets/support-box.php:17
+msgid "Engitech Support Box"
+msgstr ""
+
+#: inc/backend/elementor-widgets/support-box.php:36
+msgid "Support Box"
+msgstr ""
+
+#: inc/backend/elementor-widgets/support-box.php:66
+msgid "For Partners"
+msgstr ""
+
+#: inc/backend/elementor-widgets/support-box.php:76
+msgid ""
+"Entrust full-cycle implementation of your software product to our "
+"experienced BAs, UI/UX designers, developers."
+msgstr ""
+
+#: inc/backend/elementor-widgets/support-box.php:221
+msgid "Overlay"
+msgstr ""
+
+#: inc/backend/elementor-widgets/tabs.php:17
+msgid "Engitech Tabs"
+msgstr ""
+
+#: inc/backend/elementor-widgets/tabs.php:36
+#: inc/backend/elementor-widgets/tabs.php:90
+msgid "Tabs"
+msgstr ""
+
+#: inc/backend/elementor-widgets/tabs.php:45
+msgid "Title & Description"
+msgstr ""
+
+#: inc/backend/elementor-widgets/tabs.php:47
+#: inc/backend/elementor-widgets/tabs.php:48
+msgid "Tab Title"
+msgstr ""
+
+#: inc/backend/elementor-widgets/tabs.php:57
+#: inc/backend/elementor-widgets/tabs.php:58
+msgid "Tab Content"
+msgstr ""
+
+#: inc/backend/elementor-widgets/tabs.php:67
+msgid "Tabs Items"
+msgstr ""
+
+#: inc/backend/elementor-widgets/tabs.php:72
+msgid "Tab #1"
+msgstr ""
+
+#: inc/backend/elementor-widgets/tabs.php:76
+msgid "Tab #2"
+msgstr ""
+
+#: inc/backend/elementor-widgets/tabs.php:167
+msgid "Active/Hover"
+msgstr ""
+
+#: inc/backend/elementor-widgets/team.php:17
+msgid "Engitech Team"
+msgstr ""
+
+#: inc/backend/elementor-widgets/team.php:36
+msgid "Member Team"
+msgstr ""
+
+#: inc/backend/elementor-widgets/team.php:63
+#: inc/backend/elementor-widgets/team.php:82
+#: inc/backend/elementor-widgets/testimonial-carousel.php:63
+#: inc/backend/elementor-widgets/testimonial-carousel.php:315
+msgid "Name"
+msgstr ""
+
+#: inc/backend/elementor-widgets/team.php:65
+msgid "Jonathan Morgan"
+msgstr ""
+
+#: inc/backend/elementor-widgets/team.php:72
+#: inc/backend/elementor-widgets/team.php:271
+msgid "Extra/Job"
+msgstr ""
+
+#: inc/backend/elementor-widgets/team.php:74
+msgid "WEB Designer"
+msgstr ""
+
+#: inc/backend/elementor-widgets/team.php:84
+msgid "Social"
+msgstr ""
+
+#: inc/backend/elementor-widgets/team.php:109
+#: inc/backend/elementor-widgets/team.php:172
+msgid "https://"
+msgstr ""
+
+#: inc/backend/elementor-widgets/team.php:131
+#: inc/backend/elementor-widgets/team.php:303
+msgid "Socials"
+msgstr ""
+
+#: inc/backend/elementor-widgets/team.php:137
+msgid "https://www.twitter.com/"
+msgstr ""
+
+#: inc/backend/elementor-widgets/team.php:146
+msgid "https://www.facebook.com/"
+msgstr ""
+
+#: inc/backend/elementor-widgets/team.php:155
+msgid "https://www.pinterest.com/"
+msgstr ""
+
+#: inc/backend/elementor-widgets/team.php:170
+msgid "Link To Details"
+msgstr ""
+
+#: inc/backend/elementor-widgets/team.php:182
+msgid "Infomation"
+msgstr ""
+
+#: inc/backend/elementor-widgets/team.php:200
+msgid "Background Hover"
+msgstr ""
+
+#: inc/backend/elementor-widgets/team.php:323
+msgid "Font Size"
+msgstr ""
+
+#: inc/backend/elementor-widgets/tech-box.php:17
+msgid "Engitech Technology Box"
+msgstr ""
+
+#: inc/backend/elementor-widgets/tech-box.php:36
+msgid "Tech Box"
+msgstr ""
+
+#: inc/backend/elementor-widgets/tech-box.php:114
+msgid "flaticon-apple"
+msgstr ""
+
+#: inc/backend/elementor-widgets/tech-box.php:126
+msgid "IOS"
+msgstr ""
+
+#: inc/backend/elementor-widgets/tech-box.php:293
+#: inc/backend/elementor-widgets/tech-box.php:328
+msgid "Hover Box Color"
+msgstr ""
+
+#: inc/backend/elementor-widgets/testimonial-carousel.php:17
+msgid "Engitech Testimonial Slider"
+msgstr ""
+
+#: inc/backend/elementor-widgets/testimonial-carousel.php:35
+msgid "Testimonials"
+msgstr ""
+
+#: inc/backend/elementor-widgets/testimonial-carousel.php:52
+msgid "Avatar"
+msgstr ""
+
+#: inc/backend/elementor-widgets/testimonial-carousel.php:72
+#: inc/backend/elementor-widgets/testimonial-carousel.php:364
+msgid "Job"
+msgstr ""
+
+#: inc/backend/elementor-widgets/testimonial-carousel.php:86
+#: inc/backend/elementor-widgets/testimonial-carousel.php:95
+#: inc/backend/elementor-widgets/testimonial-carousel.php:104
+msgid ""
+"\"I am so happy, my dear friend, so absorbed in the exquisite sense of mere "
+"tranquil existence, that I neglect my talents. I should be incapable of "
+"drawing a single stroke at the present moment.\""
+msgstr ""
+
+#: inc/backend/elementor-widgets/testimonial-carousel.php:202
+msgid "Background Color Layer"
+msgstr ""
+
+#: inc/backend/elementor-widgets/testimonial-carousel.php:256
+msgid "Avatars"
+msgstr ""
+
+#: inc/backend/elementor-widgets/video-button.php:17
+msgid "Engitech Video Popup"
+msgstr ""
+
+#: inc/backend/elementor-widgets/video-button.php:70
+msgid "Video Link"
+msgstr ""
+
+#: inc/backend/elementor-widgets/video-button.php:79
+#: inc/backend/elementor-widgets/video-button.php:246
+msgid "Caption"
+msgstr ""
+
+#: inc/backend/elementor-widgets/video-button.php:87
+msgid "Animation"
+msgstr ""
+
+#: inc/backend/elementor-widgets/video-button.php:111
+msgid "Width"
+msgstr ""
+
+#: inc/frontend/widgets/author-widget.php:14
+msgid "A Author Widget"
+msgstr ""
+
+#: inc/frontend/widgets/author-widget.php:104
+msgid "Name:"
+msgstr ""
+
+#: inc/frontend/widgets/author-widget.php:108
+msgid "Description:"
+msgstr ""
+
+#: inc/frontend/widgets/instagram-feeds.php:11
+msgid "Display Instagram posts from your Instagram accounts"
+msgstr ""
+
+#. Base ID
+#: inc/frontend/widgets/instagram-feeds.php:15
+msgid "OT Instagram Feeds"
+msgstr ""
+
+#: inc/frontend/widgets/instagram-feeds.php:72
+msgid "userId:"
+msgstr ""
+
+#: inc/frontend/widgets/instagram-feeds.php:76
+msgid "clientId:"
+msgstr ""
+
+#: inc/frontend/widgets/instagram-feeds.php:80
+msgid "accessToken:"
+msgstr ""
+
+#: inc/frontend/widgets/instagram-feeds.php:84
+msgid "Limit:"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/frontend/widgets/recent-posts.php:12
+#: inc/frontend/widgets/recent-posts.php:15
+msgid "OT Recent Posts"
+msgstr ""
+
+#: inc/frontend/widgets/recent-posts.php:27
+msgid "Latest News"
+msgstr ""
+
+#: inc/frontend/widgets/recent-posts.php:117
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/frontend/widgets/recent-posts.php:126
+msgid "Show date time"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Engitech is a WordPress theme for IT Solution and Services Company. Engitech "
+"is easy to use, it provides everything you need to create great looking "
+"website. With Engitech you can impress your customer by it’s professional "
+"design and the interactivity. Engitech built with latest website technology "
+"to ensure your website is looks nice on desktop and mobile. Get Engitech now!"
+msgstr ""
+
+#. URI of the theme
+msgid "http://wpdemo2.oceanthemes.net/engitech"
+msgstr ""
+
+#. Author of the theme
+msgid "OceanThemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://oceanthemes.net/"
+msgstr ""

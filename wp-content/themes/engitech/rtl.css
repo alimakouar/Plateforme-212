@@ -1,0 +1,323 @@
+/*
+Theme Name: Engitech
+
+Adding support for languages written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right-to-Left_Language_Support
+
+*/
+
+body, form {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+blockquote{
+	padding: 0 50px 0 30px;
+}
+.wpcf7 input[type="email"]{
+	direction: rtl;
+}
+
+/** header **/
+.octf-btn-cta .h-search-form-field,
+.site-header-cart{
+	right: auto;
+	left: -30px;
+}
+.search-form .search-submit{
+	right: auto;
+	left: 0;
+}
+.search-form .search-field{
+	padding: 0 20px 0 66px
+}
+
+.main-navigation > ul > li:hover:before, 
+.main-navigation > ul > li.current-menu-item:before, 
+.main-navigation > ul > li.current-menu-ancestor:before{
+	left: auto;
+	right: 0;
+}
+.main-navigation > ul > li.menu-item-has-children > a, 
+.main-navigation > ul > li.is-mega-menu > a{
+	padding: 32px 0 32px 17px;
+}
+.main-navigation > ul > li.menu-item-has-children > a:after,
+.main-navigation > ul > li.is-mega-menu > a:after{
+	right: auto;
+	left: 2px;
+}
+.main-navigation ul > li li.menu-item-has-children > a:after{
+	right: auto;
+	left: 0;
+	transform: rotate(-180deg);
+}
+.main-navigation:not(.no-line) ul li li a:before,
+.main-navigation:not(.no-line) ul ul li.current-menu-item > a:before,
+blockquote:before{
+	left: auto;
+	right: 0;
+}
+.main-navigation ul li li a{
+	text-align: right;
+}
+.main-navigation ul li li.menu-item-has-children > a{
+	padding-right: 0;
+	padding-left: 17px;
+}
+.main-navigation ul li li a:hover, 
+.main-navigation ul ul li.current-menu-item > a, 
+.main-navigation ul ul li.current-menu-ancestor > a{
+	padding-left: 0;
+	padding-right: 12px;
+}
+.main-navigation ul li ul.sub-menu{
+	left: auto;
+	right: -40px;
+}
+.main-navigation ul li ul ul.sub-menu{
+	right: 100%;
+	left: auto;
+}
+
+.page-header .page-title{
+	padding-right: 0;
+}
+.page-header .breadcrumbs li:before,
+.portfolio-info .btn-link i{
+	transform: rotateY(180deg);
+}
+
+/** Mise **/
+
+.btn-details i{
+	margin-left: 8px;
+	margin-right: 0;
+}
+.btn-details:hover i{
+	margin-left: 3px;
+}
+.post-nav .post-prev{
+	text-align: left;
+}
+.sl-wrapper{
+	float: left;
+}
+.sl-wrapper a .sl-count{
+	margin-left: 0;
+	margin-right: 7px;
+}
+.blog-post .author-bio .author-image{
+	float: right;
+	margin-left: 50px;
+	margin-right: 0;
+}
+.blog-post .author-bio .author-info{
+	border-left: 1px solid #e7e7e7;
+	border-right: 0;
+	padding: 40px 0 33px 50px;
+}
+.widget ul{
+	padding: 0;
+}
+.widget-area .widget_categories ul li a:before, 
+.widget-area .widget_product_categories ul li a:before, 
+.widget-area .widget_archive ul li a:before{
+	left: auto;
+	right: 0;
+}
+.widget-area .widget_categories ul li a:hover, 
+.widget-area .widget_product_categories ul li a:hover, 
+.widget-area .widget_archive ul li a:hover{
+	padding-left: 0;
+	padding-right: 15px;
+}
+.widget .recent-news .thumb{
+	float: right;
+	margin-left: 20px;
+	margin-right: 0;
+}
+.page-pagination{
+	padding: 0;
+}
+.page-pagination li .next, .page-pagination li .prev{
+	transform: rotate(180deg);
+}
+
+.icon-box-s1:hover .line-box:after{
+	left: 0;
+    right: auto;
+}
+.icon-box-s1:hover .line-box:after,
+.icon-box-s2.s2:before,
+.serv-box .content-box ul li a:before{
+	right: 0;
+	left: auto;
+}
+.serv-box-2 .big-number{
+	left: auto;
+	right: -10px;
+}
+.serv-box-2 .icon-main,
+.serv-box .icon-main,
+.ot-pricing-table .icon-main{
+	left: -88px;
+	right: auto;
+}
+.serv-box-2 .icon-main i, 
+.serv-box-2 .icon-main span, 
+.serv-box-2 .icon-main img, 
+.serv-box-2 .icon-main svg,
+.ot-pricing-table .icon-main i, 
+.ot-pricing-table .icon-main span, 
+.ot-pricing-table .icon-main img, 
+.ot-pricing-table .icon-main svg,
+.serv-box .icon-main i, 
+.serv-box .icon-main span, 
+.serv-box .icon-main img, 
+.serv-box .icon-main svg,
+.post-box .entry-media .post-cat{
+	left: auto;
+	right: 40px;
+}
+.ot-pricing-table .details li{
+	position: relative;
+	padding-right: 30px;
+}
+.ot-pricing-table .inner-table .details ul li:before{
+	position: absolute;
+	right: 0;
+	top: 0;
+	margin-right: 0;
+}
+.ot-counter span.num{
+	padding-left: 0;
+}
+.project-slider .projects-box .portfolio-info,
+.ot-counter,
+.ot-pricing-table-s2{
+	text-align: right;
+}
+.project-slider .projects-box .portfolio-info .btn-link{
+	right: auto;
+	left: -94px;
+}
+.project-slider .projects-box .portfolio-info .btn-link i{
+	left: auto;
+	right: 50px;
+}
+
+.ot-testimonials .t-head img{
+	margin-right: 0;
+	margin-left: 30px;
+}
+.video-popup > span{
+	margin-left: 0;
+	margin-right: 15px;
+}
+.team-wrap .team-social > div{
+	transform: translateX(-100%);
+}
+.post-box .post-cat a{
+	margin-left: 6px;
+	margin-right: 0;
+}
+.circle-progress h4{
+	margin-left: 0;
+	margin-right: 20px;
+}
+.drop-cap{
+	float: right;
+}
+.dc-text .elementor-drop-cap,
+.drop-cap{
+	margin: 8px 0 0 18px !important
+}
+.service-box .content-box{
+	padding-right: 73px;
+	padding-left: 0;
+}
+.service-box .icon-main{
+	float: right;
+}
+.service-box .big-number{
+	left: -7px;
+	right: auto;
+}
+.serv-box .content-box h5{
+	padding-right: 0;
+	padding-left: 60px;
+}
+.serv-box .content-box ul,
+.ot-pricing-table-s2 ul{
+	padding: 0;
+}
+
+.serv-box .content-box ul li:hover a, 
+.serv-box .content-box ul li.active a{
+	padding-left: 0;
+	padding-right: 15px;
+}
+.ot-accordions .acc-item .acc-toggle i,
+.cs-form .octf-btn{
+	float: left;
+}
+.ot-tabs .tabs-heading{
+	padding: 0;
+}
+.ot-tabs .tab-link,
+.cs-form > span.wpcf7-form-control-wrap{
+	float: right;
+}
+.contact-info .info-text{
+	padding-left: 0;
+	padding-right: 50px;
+}
+.box-style1 img, 
+.box-style1 i, 
+.box-style1 svg,
+.icon-box-s3 .icon-main{
+	float: right;
+}
+.project_filters li:last-child{
+	margin-left: 0;
+	margin-right: 20px;
+}
+.otf-social-share.shape-circle a{
+	margin-right: 0;
+}
+
+.message-box .icon-main{
+	float: right;
+}
+.message-box .content-box{
+	padding-right: 66px;
+	padding-left: 0;
+}
+.message-box > i{
+	left: 20px;
+	right: auto;
+}
+.ot-counter3 .icon-main{
+	margin-left: 34px;
+	margin-right: 0;
+}
+.icon-box-s3 .top-box a{
+	float: left;
+}
+.ot-pricing-table-s2 .featured{
+	text-align: center;
+}
+.sub-home-6 .wpcf7-submit, .sub-home-7 .octf-btn{
+	left: 0;
+	right: auto;
+}
+.sub-home-6 .wpcf7-email{
+	padding: 0 70px 0 220px;
+}
+.sub-home-6:before{
+	right: 25px;
+	width: 22px;
+}
